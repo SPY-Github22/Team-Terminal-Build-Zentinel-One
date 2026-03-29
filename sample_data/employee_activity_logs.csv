@@ -1,0 +1,60 @@
+timestamp,employee_id,employee_name,role,department,device,action_type,module,records_accessed,file_size_mb,ip_address,location,destination_ip,session_id,risk_flag
+2026-03-28 08:30:12,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,LOGIN,Authentication,0,0,10.0.1.15,HQ Server Room,10.0.1.15,SES-770112,normal
+2026-03-28 08:45:33,EMP-002,Navadeep K,Data Analyst,Analytics & MIS,Desktop-06,LOGIN,Authentication,0,0,10.0.2.8,Analytics Lab,10.0.2.8,SES-770113,normal
+2026-03-28 08:52:07,EMP-003,Pavan P,Jr Developer,Core Banking Dev,Laptop-07,LOGIN,Authentication,0,0,10.0.3.44,Dev Floor,10.0.3.44,SES-770114,normal
+2026-03-28 09:00:22,EMP-004,Harsh Raj,Branch Manager,Operations,Desktop-03,LOGIN,Authentication,0,0,10.0.4.12,Ops Center,10.0.4.12,SES-770115,normal
+2026-03-28 09:05:45,EMP-005,Aarya Mittal,Loan Officer,Retail Loans,Laptop-01,LOGIN,Authentication,0,0,10.0.3.22,Loan Processing,10.0.3.22,SES-770116,normal
+2026-03-28 09:08:18,EMP-006,Mehul Rathi,Compliance Officer,Risk & Compliance,Desktop-06,LOGIN,Authentication,0,0,10.0.1.45,Compliance Wing,10.0.1.45,SES-770117,normal
+2026-03-28 09:12:30,EMP-007,Zaina Nasser,HR Manager,Human Resources,Laptop-09,LOGIN,Authentication,0,0,10.0.1.88,HR Department,10.0.1.88,SES-770118,normal
+2026-03-28 09:15:55,EMP-008,Aditi Singh,Treasury Analyst,Treasury,Desktop-03,LOGIN,Authentication,0,0,10.0.5.33,Treasury Desk,10.0.5.33,SES-770119,normal
+2026-03-28 09:18:11,EMP-009,Kanak Poddar,Teller,Counter Operations,Laptop-01,LOGIN,Authentication,0,0,10.0.6.11,Counter 3,10.0.6.11,SES-770120,normal
+2026-03-28 09:22:44,EMP-010,Akshat Vora,Network Engineer,IT Infrastructure,Laptop-11,LOGIN,Authentication,0,0,10.0.1.67,Server Room,10.0.1.67,SES-770121,normal
+2026-03-28 09:30:00,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,RECORD_ACCESS,Customer DB,18,0.4,10.0.1.15,HQ Server Room,10.0.1.15,SES-770112,normal
+2026-03-28 09:35:18,EMP-002,Navadeep K,Data Analyst,Analytics & MIS,Desktop-06,REPORT_GEN,MIS Reports,5,2.1,10.0.2.8,Analytics Lab,10.0.2.8,SES-770113,normal
+2026-03-28 09:40:42,EMP-003,Pavan P,Jr Developer,Core Banking Dev,Laptop-07,CODE_ACCESS,Git Repository,3,0.2,10.0.3.44,Dev Floor,10.0.3.44,SES-770114,normal
+2026-03-28 09:45:55,EMP-005,Aarya Mittal,Loan Officer,Retail Loans,Laptop-01,RECORD_ACCESS,Loan Module,12,1.8,10.0.3.22,Loan Processing,10.0.3.22,SES-770116,normal
+2026-03-28 09:50:10,EMP-009,Kanak Poddar,Teller,Counter Operations,Laptop-01,TRANSACTION,Counter,8,0,10.0.6.11,Counter 3,10.0.6.11,SES-770120,normal
+2026-03-28 10:05:47,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,RECORD_ACCESS,Customer DB,85,18.5,10.0.1.15,HQ Server Room,10.0.1.15,SES-770112,elevated
+2026-03-28 10:12:33,EMP-004,Harsh Raj,Branch Manager,Operations,Desktop-03,APPROVAL,Loan Approval,3,0.1,10.0.4.12,Ops Center,10.0.4.12,SES-770115,normal
+2026-03-28 10:18:33,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,DATA_EXPORT,Customer DB,312,47.2,192.168.47.23,Unknown VPN Endpoint,89.122.171.182,SES-770112,critical
+2026-03-28 10:25:11,EMP-002,Navadeep K,Data Analyst,Analytics & MIS,Desktop-06,RECORD_ACCESS,Analytics DB,22,3.4,10.0.2.8,Analytics Lab,10.0.2.8,SES-770113,normal
+2026-03-28 10:30:22,EMP-006,Mehul Rathi,Compliance Officer,Risk & Compliance,Desktop-06,REPORT_GEN,Compliance Reports,6,1.2,10.0.1.45,Compliance Wing,10.0.1.45,SES-770117,normal
+2026-03-28 10:35:45,EMP-010,Akshat Vora,Network Engineer,IT Infrastructure,Laptop-11,CONFIG_CHANGE,Firewall Rules,1,0,10.0.1.67,Server Room,10.0.1.67,SES-770121,normal
+2026-03-28 10:40:18,EMP-003,Pavan P,Jr Developer,Core Banking Dev,Laptop-07,CODE_ACCESS,Production DB,14,2.8,10.0.3.44,Dev Floor,10.0.3.44,SES-770114,elevated
+2026-03-28 10:55:02,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,PRIV_ESCALATION,Admin Panel,0,0,192.168.47.23,Unknown VPN Endpoint,238.214.237.203,SES-770112,critical
+2026-03-28 11:05:33,EMP-008,Aditi Singh,Treasury Analyst,Treasury,Desktop-03,TRANSACTION,SWIFT Terminal,4,0.5,10.0.5.33,Treasury Desk,10.0.5.33,SES-770119,normal
+2026-03-28 11:12:19,EMP-009,Kanak Poddar,Teller,Counter Operations,Laptop-01,TRANSACTION,Counter,15,0,10.0.6.11,Counter 3,10.0.6.11,SES-770120,normal
+2026-03-28 11:20:44,EMP-002,Navadeep K,Data Analyst,Analytics & MIS,Desktop-06,DATA_EXPORT,MIS Reports,28,8.4,10.0.2.8,Analytics Lab,105.122.210.196,SES-770113,elevated
+2026-03-28 11:30:00,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,DATA_EXPORT,Core Banking System,543,877.0,192.168.47.23,Unknown VPN Endpoint,15.168.174.98,SES-770112,critical
+2026-03-28 11:45:22,EMP-004,Harsh Raj,Branch Manager,Operations,Desktop-03,OVERRIDE,Transaction Override,1,0,10.0.4.12,Ops Center,10.0.4.12,SES-770115,normal
+2026-03-28 12:00:33,EMP-007,Zaina Nasser,HR Manager,Human Resources,Laptop-09,RECORD_ACCESS,Employee Records,10,1.5,10.0.1.88,HR Department,10.0.1.88,SES-770118,normal
+2026-03-28 12:10:44,EMP-003,Pavan P,Jr Developer,Core Banking Dev,Laptop-07,DATA_EXPORT,Git Repository,7,3.2,10.0.3.44,Dev Floor,143.80.225.174,SES-770114,elevated
+2026-03-28 12:25:55,EMP-005,Aarya Mittal,Loan Officer,Retail Loans,Laptop-01,RECORD_ACCESS,Loan Module,18,2.7,10.0.3.22,Loan Processing,10.0.3.22,SES-770116,normal
+2026-03-28 13:00:02,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,DATA_EXPORT,HR Payroll System,289,943.0,192.168.47.23,Unknown VPN Endpoint,89.122.171.182,SES-770112,critical
+2026-03-28 13:15:33,EMP-002,Navadeep K,Data Analyst,Analytics & MIS,Desktop-06,RECORD_ACCESS,Customer Segmentation DB,45,6.8,10.0.2.8,Analytics Lab,10.0.2.8,SES-770113,elevated
+2026-03-28 13:30:44,EMP-006,Mehul Rathi,Compliance Officer,Risk & Compliance,Desktop-06,AUDIT_ACCESS,Transaction Audit Log,20,3.0,10.0.1.45,Compliance Wing,10.0.1.45,SES-770117,normal
+2026-03-28 13:44:55,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,BULK_DOWNLOAD,SWIFT Transaction Records,0,1436.0,192.168.47.23,Unknown VPN Endpoint,242.162.183.121,SES-770112,critical
+2026-03-28 14:00:11,EMP-003,Pavan P,Jr Developer,Core Banking Dev,Laptop-07,RECORD_ACCESS,Test Environment DB,12,1.9,10.0.3.44,Dev Floor,10.0.3.44,SES-770114,normal
+2026-03-28 14:14:55,EMP-007,Zaina Nasser,HR Manager,Human Resources,Laptop-09,DATA_EXPORT,Salary Records,35,5.2,10.0.1.88,HR Department,10.0.1.88,SES-770118,elevated
+2026-03-28 14:30:02,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,DATA_EXPORT,Fraud Investigation Case Files,178,1895.0,192.168.47.23,Unknown VPN Endpoint,238.214.237.203,SES-770112,critical
+2026-03-28 14:45:33,EMP-004,Harsh Raj,Branch Manager,Operations,Desktop-03,BYPASS_CONTROL,4-Eye Verification,1,0,10.0.4.12,Ops Center,10.0.4.12,SES-770115,warning
+2026-03-28 15:00:44,EMP-002,Navadeep K,Data Analyst,Analytics & MIS,Desktop-06,RECORD_ACCESS,Risk Scoring Models,8,1.2,10.0.2.8,Analytics Lab,10.0.2.8,SES-770113,normal
+2026-03-28 15:07:55,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,BULK_DOWNLOAD,Customer KYC Documents,0,908.0,192.168.47.23,Unknown VPN Endpoint,160.102.144.121,SES-770112,critical
+2026-03-28 15:15:02,EMP-010,Akshat Vora,Network Engineer,IT Infrastructure,Laptop-11,CONFIG_CHANGE,Server Access Policies,1,0,10.0.1.67,Server Room,10.0.1.67,SES-770121,normal
+2026-03-28 15:30:33,EMP-009,Kanak Poddar,Teller,Counter Operations,Laptop-01,TRANSACTION,Counter,22,0,10.0.6.11,Counter 3,10.0.6.11,SES-770120,normal
+2026-03-28 15:40:44,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,DATA_EXPORT,Employee PII Database,412,1436.0,192.168.47.23,Unknown VPN Endpoint,242.162.183.121,SES-770112,critical
+2026-03-28 16:00:55,EMP-003,Pavan P,Jr Developer,Core Banking Dev,Laptop-07,CODE_ACCESS,Production Config Files,5,0.8,10.0.3.44,Dev Floor,10.0.3.44,SES-770114,elevated
+2026-03-28 16:15:02,EMP-008,Aditi Singh,Treasury Analyst,Treasury,Desktop-03,TRANSACTION,Fund Transfer,6,0.3,10.0.5.33,Treasury Desk,10.0.5.33,SES-770119,normal
+2026-03-28 16:28:33,EMP-002,Navadeep K,Data Analyst,Analytics & MIS,Desktop-06,DATA_EXPORT,Customer Analytics Report,18,12.5,10.0.2.8,Analytics Lab,76.86.1.23,SES-770113,elevated
+2026-03-28 16:30:44,EMP-005,Aarya Mittal,Loan Officer,Retail Loans,Laptop-01,RECORD_ACCESS,Loan Module,14,2.1,10.0.3.22,Loan Processing,10.0.3.22,SES-770116,normal
+2026-03-28 16:49:55,EMP-002,Navadeep K,Data Analyst,Analytics & MIS,Desktop-06,LOGIN,SSH Terminal,0,0,221.133.36.101,External IP - Coffee Shop WiFi,221.133.36.101,SES-770155,warning
+2026-03-28 17:00:00,EMP-009,Kanak Poddar,Teller,Counter Operations,Laptop-01,LOGOUT,Authentication,0,0,10.0.6.11,Counter 3,10.0.6.11,SES-770120,normal
+2026-03-28 17:15:00,EMP-005,Aarya Mittal,Loan Officer,Retail Loans,Laptop-01,LOGOUT,Authentication,0,0,10.0.3.22,Loan Processing,10.0.3.22,SES-770116,normal
+2026-03-28 17:30:00,EMP-004,Harsh Raj,Branch Manager,Operations,Desktop-03,LOGOUT,Authentication,0,0,10.0.4.12,Ops Center,10.0.4.12,SES-770115,normal
+2026-03-28 18:00:00,EMP-006,Mehul Rathi,Compliance Officer,Risk & Compliance,Desktop-06,LOGOUT,Authentication,0,0,10.0.1.45,Compliance Wing,10.0.1.45,SES-770117,normal
+2026-03-28 18:30:00,EMP-003,Pavan P,Jr Developer,Core Banking Dev,Laptop-07,LOGOUT,Authentication,0,0,10.0.3.44,Dev Floor,10.0.3.44,SES-770114,normal
+2026-03-28 22:45:00,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,LOGIN,Authentication,0,0,192.168.99.5,External IP - Residential ISP,192.168.99.5,SES-770188,critical
+2026-03-28 22:50:12,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,RECORD_ACCESS,Customer DB,200,32.5,192.168.99.5,External IP - Residential ISP,192.168.99.5,SES-770188,critical
+2026-03-28 23:05:33,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,DATA_EXPORT,Customer PII + Account Data,500,2150.0,192.168.99.5,External IP - Residential ISP,194.45.62.170,SES-770188,critical
+2026-03-28 23:15:44,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,BULK_DOWNLOAD,Entire Loan Portfolio DB,0,3200.0,192.168.99.5,External IP - Residential ISP,238.214.237.203,SES-770188,critical
+2026-03-28 23:30:55,EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,Laptop-11,LOG_DELETION,Audit Trail - System Logs,0,0,192.168.99.5,External IP - Residential ISP,192.168.99.5,SES-770188,critical

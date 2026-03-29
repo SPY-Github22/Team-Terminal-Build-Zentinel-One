@@ -1,0 +1,11 @@
+employee_id,employee_name,role,department,branch,device,avg_daily_access,avg_daily_exports,avg_daily_downloads,avg_login_hour,avg_logout_hour,avg_daily_transactions,avg_file_size_mb,modules_accessed,peer_group,access_level
+EMP-001,Sudarshan Pai Y,System Admin,IT Infrastructure,HQ Server Room,Laptop-11,18,3,2,9,18,2,12.5,Authentication;Admin Panel;Customer DB;Server Config,IT_ADMIN_HQ,PRIVILEGED
+EMP-002,Navadeep K,Data Analyst,Analytics & MIS,Analytics Lab,Desktop-06,45,8,5,9,17,0,4.2,MIS Reports;Analytics DB;Customer Segmentation DB;Risk Scoring,DATA_ANALYST_HQ,STANDARD
+EMP-003,Pavan P,Jr Developer,Core Banking Dev,Dev Floor,Laptop-07,12,2,3,9,18,0,1.5,Git Repository;Test Environment;Dev Tools,DEVELOPER_CORE,STANDARD
+EMP-004,Harsh Raj,Branch Manager,Operations,Ops Center,Desktop-03,14,2,1,9,18,18,0.8,Loan Approval;Operations;Counter Management,BRANCH_MGR_OPS,ELEVATED
+EMP-005,Aarya Mittal,Loan Officer,Retail Loans,Loan Processing,Laptop-01,22,1,1,9,17,10,2.0,Loan Module;Customer DB;Credit Scoring,LOAN_OFFICER_RETAIL,STANDARD
+EMP-006,Mehul Rathi,Compliance Officer,Risk & Compliance,Compliance Wing,Desktop-06,28,5,3,9,18,0,1.8,Audit Logs;Compliance Reports;Risk DB;Transaction Audit,COMPLIANCE_HQ,ELEVATED
+EMP-007,Zaina Nasser,HR Manager,Human Resources,HR Department,Laptop-09,10,2,1,9,18,0,1.0,HR Records;Payroll System;Employee DB,HR_MANAGER_HQ,ELEVATED
+EMP-008,Aditi Singh,Treasury Analyst,Treasury,Treasury Desk,Desktop-03,15,3,2,9,18,12,0.5,Treasury;Fund Management;SWIFT Terminal,TREASURY_HQ,ELEVATED
+EMP-009,Kanak Poddar,Teller,Counter Operations,Counter 3,Laptop-01,8,0,0,9,17,35,0,Counter;Cash Management;Receipt Printer,TELLER_COUNTER,STANDARD
+EMP-010,Akshat Vora,Network Engineer,IT Infrastructure,Server Room,Laptop-11,10,1,1,9,18,0,0.5,Network Config;Firewall;Server Monitoring;VPN Gateway,IT_ADMIN_HQ,PRIVILEGED

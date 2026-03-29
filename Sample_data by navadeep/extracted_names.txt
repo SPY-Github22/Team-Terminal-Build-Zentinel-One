@@ -1,0 +1,1540 @@
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec A
+Sl NoApplication Number Candidate Name Course Name Section 
+1125162913 K KRISHNA DAS B.Tech Computer Science & Engg A
+2125257532 KOTAMRAJU ANISHA SAI B.Tech Computer Science & Engg A
+3125185322 SAPTAMI KIRAN B.Tech Computer Science & Engg A
+4125131199 GUDA MOUNISH B.Tech Computer Science & Engg A
+5125203433 RAGIPINDI AGASTESWAR REDDY B.Tech Computer Science & Engg A
+6125191237 YASHASVI SHARMA B.Tech Computer Science & Engg A
+7125126123 SAMYAK PRAKASH SHETTY B.Tech Computer Science & Engg A
+8125197662 ANANTH SYAM B.Tech Computer Science & Engg A
+9125164910 DHRITI ARYA B.Tech Computer Science & Engg A
+10125137467 NIHAR DUDHAT B.Tech Computer Science & Engg A
+11125212644 YADHATY SUJITH REDDY B.Tech Computer Science & Engg A
+12125238390 SHREEYA.A.M B.Tech Computer Science & Engg A
+13125252302 MOHITH VELAMALA B.Tech Computer Science & Engg A
+14125210413 MANISH MANOJ PATIL B.Tech Computer Science & Engg A
+15125139531 KADIRI NIKITHA B.Tech Computer Science & Engg A
+16125171956 BOORGADDA ESHAAN B.Tech Computer Science & Engg A
+17125246844 RIA VASISHTA B.Tech Computer Science & Engg A
+18125168276 ANNAPUREDDY VENKATA HIMAANEESH REDDY B.Tech Computer Science & Engg A
+19125226362 PARA ESWAR CHANDRA B.Tech Computer Science & Engg A
+20125118097 S AKSHAY B.Tech Computer Science & Engg A
+21125116979 PARISA SACHDEVA B.Tech Computer Science & Engg A
+22125119287 SHIKHAR MITTAL B.Tech Computer Science & Engg A
+23125153662 KORADA JAIKISHAN B.Tech Computer Science & Engg A
+24125170534 ANANYA PATHAK B.Tech Computer Science & Engg A
+25125202143 KATHROJU RITHVIK B.Tech Computer Science & Engg A
+26125193445 ANUSHKA GUPTA B.Tech Computer Science & Engg A
+27125124012 DAKSH KUMAR B.Tech Computer Science & Engg A
+28125136014 SARATHI VIJAY B.Tech Computer Science & Engg A
+29125206774 AARAV ANIL KATARIA B.Tech Computer Science & Engg A
+30125188658 KANISHKA LAL B.Tech Computer Science & Engg A
+31125116966 ARJUN D NATH B.Tech Computer Science & Engg A
+32125146284 THANISHA HATHWAR B.Tech Computer Science & Engg A
+33125129689 NIMAY KAUSHIK B.Tech Computer Science & Engg A
+34125131998 DIVISHA N TAPADIYA B.Tech Computer Science & Engg A
+35125143553 NIHAL UMESH B.Tech Computer Science & Engg A
+36125135966 SHOURIN DAS B.Tech Computer Science & Engg A
+37125131591 ANKITA NAYAK B.Tech Computer Science & Engg A
+38125126285 BHARANI RAJ S B.Tech Computer Science & Engg A
+39125249052 MUDIT KRISHNA SHRIVASTAVA B.Tech Computer Science & Engg A
+40125116342 SRIJA VASANTHALA B.Tech Computer Science & Engg A
+41125113660 MANIK BHATIA B.Tech Computer Science & Engg A
+42125157205 RAAMCHARAN REDDY BYKA B.Tech Computer Science & Engg A
+43125255116 ADITYA SANTOSH KAVITAKE B.Tech Computer Science & Engg A
+44125132611 FARHAN ALAM B.Tech Computer Science & Engg A
+45125249576 SUDEEKSHA PANDEY B.Tech Computer Science & Engg A
+46125253635 TEJAS RAI B.Tech Computer Science & Engg A
+47125173487 VRIDHI KHAITAN B.Tech Computer Science & Engg A
+48125205677 DIPANSH DAS B.Tech Computer Science & Engg A
+MIT Bengaluru B.Tech Section Allotment
+49125231425 VEER PRATAP SINGH B.Tech Computer Science & Engg A
+50125202052 RUDRAKSHI GUPTA B.Tech Computer Science & Engg A
+51125243243 RYAN PRINCE B.Tech Computer Science & Engg A
+52125140829  PRERNA B.Tech Computer Science & Engg A
+53125193228  KANAMARLAPUDISHOURYA B.Tech Computer Science & Engg A
+54125162433  AATHREY.M.DIXIT B.Tech Computer Science & Engg A
+55125206619 JONATHAN ZACHARIAH BINESH B.Tech Computer Science & Engg A
+56125139856 ANANYA SUNDAR B.Tech Computer Science & Engg A
+57125182006 ANOUSHKA SRIVASTAVA B.Tech Computer Science & Engg A
+58125175876 SAI DONGARGAONKAR B.Tech Computer Science & Engg A
+59125129269 KRIDAY SHARMA B.Tech Computer Science & Engg A
+60125153373 POORVI REDDY B B.Tech Computer Science & Engg A
+61125127188 SIDHARTH SATAPATHY B.Tech Computer Science & Engg A
+62125118988 D MABUSUBHANI B.Tech Computer Science & Engg A
+63125153151 VEERAMREDDY HARSHITHA REDDY B.Tech Computer Science & Engg A
+64225112289 DEV RAJ MANDAL B.Tech Computer Science & Engg A
+65225117314 ANISHKA AGRAWAL B.Tech Computer Science & Engg A
+66225115992 MANAV THAKRAR B.Tech Computer Science & Engg A
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec B
+Sl NoApplication Number Candidate Name Course Name Section 
+1125249851 ANCHA KARTHIKEYA B.Tech Computer Science & Engg B
+2125194863 MASAPPAGARI SANJANA REDDY B.Tech Computer Science & Engg B
+3125153154 PREKSHITA SINGH TANWAR B.Tech Computer Science & Engg B
+4125116692 AAROHAN RAJGOPAL B.Tech Computer Science & Engg B
+5125254626 AKSHAT VERMA B.Tech Computer Science & Engg B
+6125209118 AISHANI PATI B.Tech Computer Science & Engg B
+7125124356 KESAV G NAMPOOTHIRI B.Tech Computer Science & Engg B
+8125118622 ISHAAN LEKH JOSHI B.Tech Computer Science & Engg B
+9125136974 FARIA SIDDIQUI B.Tech Computer Science & Engg B
+10125134986 KRISHNENDU PUROHIT B.Tech Computer Science & Engg B
+11125152107 ANKIT RACHABATTUNI B.Tech Computer Science & Engg B
+12125252245 DIKSHA KUKREJA B.Tech Computer Science & Engg B
+13125186584 AAYUSH AASHISH NAIR B.Tech Computer Science & Engg B
+14125112603 AFZAL ALI B.Tech Computer Science & Engg B
+15125111664 SAVYASACHI MOGILI B.Tech Computer Science & Engg B
+16125171988 CHALLA SAI HRITHIK REDDY B.Tech Computer Science & Engg B
+17125203940 HELLY PATEL B.Tech Computer Science & Engg B
+18125173369 REDDY DWEEPAK GREESHMANTH B.Tech Computer Science & Engg B
+19125187943 JIS J THOMAS B.Tech Computer Science & Engg B
+20125225750 SANJITH MURALIDHARAN B.Tech Computer Science & Engg B
+21125241432 BITINTI RISHIKA REDDY B.Tech Computer Science & Engg B
+22125193413 SWASTIK SHARMA B.Tech Computer Science & Engg B
+23125253354 AAROHON GHOSH B.Tech Computer Science & Engg B
+24125169107 GADE YASHASWI B.Tech Computer Science & Engg B
+25125180480 DAKSHITH SAII V B.Tech Computer Science & Engg B
+26125164947 SAHITHI GAVARA B.Tech Computer Science & Engg B
+27125200562 PRADYUMNA REDDY B.Tech Computer Science & Engg B
+28125156849 AARON MARKOSE PHILIP B.Tech Computer Science & Engg B
+29125159147 CHARITHA GADAPUTI B.Tech Computer Science & Engg B
+30125122807 HARSHIT R B.Tech Computer Science & Engg B
+31125115063 JOHAN MANO PATIL B.Tech Computer Science & Engg B
+32125135348 SIMRAN VIKRAM MOHAN B.Tech Computer Science & Engg B
+33125120314 HARI SAI RAMA AKSHAY B.Tech Computer Science & Engg B
+34125201992 RHEA RACHEL MOSES B.Tech Computer Science & Engg B
+35125144301 ARSHABH RANJAN B.Tech Computer Science & Engg B
+36125205693 SURYAANSH S TAVARE B.Tech Computer Science & Engg B
+37125129790 KHUSHI KRISHNA B.Tech Computer Science & Engg B
+38125152645 KARTIK SEHRAWAT B.Tech Computer Science & Engg B
+39125259637 RISHABH VERMA B.Tech Computer Science & Engg B
+40125130875 ISHI GOYAL B.Tech Computer Science & Engg B
+41125112495 HRITHI PRATHEEPA SHETTY B.Tech Computer Science & Engg B
+42125187536 ARNAV AGRAWAL B.Tech Computer Science & Engg B
+43125220720 MAYUR MALHOTRA B.Tech Computer Science & Engg B
+44125152654 DANDAMUDI THAPASWIN B.Tech Computer Science & Engg B
+45125138586 SAUMYAA ROY B.Tech Computer Science & Engg B
+46125127089 ASHWINI GAURAV B.Tech Computer Science & Engg B
+47125157366 KANISETTY MEGHANA B.Tech Computer Science & Engg B
+48125194829 ARPIT JAIN B.Tech Computer Science & Engg B
+MIT Bengaluru B.Tech Section Allotment
+49125161940 PALLE VAMSIDHAR REDDY B.Tech Computer Science & Engg B
+50125204054 AANYA SHARMA B.Tech Computer Science & Engg B
+51125188123 K SHANMUKESH B.Tech Computer Science & Engg B
+52125192335 KASHISH CHHAJER B.Tech Computer Science & Engg B
+53125135878 TEJA SWAROOP .H B.Tech Computer Science & Engg B
+54125213500 ROHAN JAYARAJ C B.Tech Computer Science & Engg B
+55125120430 SHISHIR HARSHA B.Tech Computer Science & Engg B
+56125222697 RISHITA CHAUDHARY B.Tech Computer Science & Engg B
+57125165012 MAADHAAV SINNGHAAL B.Tech Computer Science & Engg B
+58125115533 ADITI BAGHEL B.Tech Computer Science & Engg B
+59125125238 VUPPALA VINAY KUMAR B.Tech Computer Science & Engg B
+60125200305 MOGILI RAMA RUSHITHA REDDY B.Tech Computer Science & Engg B
+61125137751 ARNAV SAXENA B.Tech Computer Science & Engg B
+62125202886 SARTHAK AGARWAL B.Tech Computer Science & Engg B
+63125135534 K VENILA REDDY B.Tech Computer Science & Engg B
+64225118978 SAMYAK SWAIN B.Tech Computer Science & Engg B
+65225111761 ARYAN BURAGADDA B.Tech Computer Science & Engg B
+66225113604 PRIYAD PALLAV DAS B.Tech Computer Science & Engg B
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec C
+Sl NoApplication Number Candidate Name Course Name Section 
+1125228289 VAIBHAV CHANDRASHEKAR B.Tech Computer Science & Engg C
+2125115469 ABHINAYA ARUNKUMAR B.Tech Computer Science & Engg C
+3125121947 ASHISH D'SOUZA B.Tech Computer Science & Engg C
+4125111844 ADITI MANDVIYA B.Tech Computer Science & Engg C
+5125140535 ARNAV MINOTRA B.Tech Computer Science & Engg C
+6125157250 NITTURU SREEJITHA B.Tech Computer Science & Engg C
+7125253416 ARJUN PRATAP SINGH B.Tech Computer Science & Engg C
+8125134662 OJAS SOOD B.Tech Computer Science & Engg C
+9125142294 SRIHARSHINI POOSARLA B.Tech Computer Science & Engg C
+10125253821 PRAKHAR SHARMA B.Tech Computer Science & Engg C
+11125116619 KESHAVA G KAUSHIK B.Tech Computer Science & Engg C
+12125158803 AISHANI K P B.Tech Computer Science & Engg C
+13125199081 VADDANAM ARJUN B.Tech Computer Science & Engg C
+14125168710 PRAHALAD SHYAM RAO B.Tech Computer Science & Engg C
+15125149195 MEENAKSHI KRISHNAN B.Tech Computer Science & Engg C
+16125117215 SHUBH KAPOOR B.Tech Computer Science & Engg C
+17125217059 AANYA GARG B.Tech Computer Science & Engg C
+18125112345 RIDDHIMAN SARKAR B.Tech Computer Science & Engg C
+19125156978 NIRANJAN KRISHNAN B.Tech Computer Science & Engg C
+20125184567 DEVANSH SHUKLA B.Tech Computer Science & Engg C
+21125244577 MANASVI AGARWAL B.Tech Computer Science & Engg C
+22125167058 CHIMIKALA RISHIK REDDY B.Tech Computer Science & Engg C
+23125175375 PANYAM BHANU PRAKASH REDDY B.Tech Computer Science & Engg C
+24125215050 RITIKA CHOURASIA B.Tech Computer Science & Engg C
+25125141368 SRI KRISHNA K B.Tech Computer Science & Engg C
+26125195468 SHUBHANJANA SHOME B.Tech Computer Science & Engg C
+27125123207 DHARSHAN SATHISH KUMAR B.Tech Computer Science & Engg C
+28125170196 SADHAK GANGADHAR SHINDE B.Tech Computer Science & Engg C
+29125194810 AADHYA SHARMA B.Tech Computer Science & Engg C
+30125201029 ARSH MITHAL B.Tech Computer Science & Engg C
+31125223678 DAKSH GOEL B.Tech Computer Science & Engg C
+32125137089 RITACHETA CHAKROBORTY B.Tech Computer Science & Engg C
+33125117405 ARNAV JAIN B.Tech Computer Science & Engg C
+34125182726 AADYA UPADHYAY B.Tech Computer Science & Engg C
+35125179737 KAUSTUBH CHOUDHARY B.Tech Computer Science & Engg C
+36125181324 ANKUR SINGH B.Tech Computer Science & Engg C
+37125239138 AKSHITA NAYAK B.Tech Computer Science & Engg C
+38125154328 AMBUJ SHAH B.Tech Computer Science & Engg C
+39125195248 ISHAAAN MAHESHWARI B.Tech Computer Science & Engg C
+40125154822 PRATYUSH SRICHANDAN B.Tech Computer Science & Engg C
+41125199857 IRUGU GEERVANI B.Tech Computer Science & Engg C
+42125219018 SHAURYA KHERA B.Tech Computer Science & Engg C
+43125218398 AKITI EKSHITH REDDY B.Tech Computer Science & Engg C
+44125183331 SHRESTH SINGHAL B.Tech Computer Science & Engg C
+45125164585 SWATHY SUDIR B.Tech Computer Science & Engg C
+46125251339 SRAVEN S SRIJITH B.Tech Computer Science & Engg C
+47125204217 ANIKA KOHLI B.Tech Computer Science & Engg C
+48125112530 SATHVIK HARIPRASAD B.Tech Computer Science & Engg C
+MIT Bengaluru B.Tech Section Allotment
+49125123240 ANKIT SATAPATHY B.Tech Computer Science & Engg C
+50125191362 SANAA GOYAL B.Tech Computer Science & Engg C
+51125255593 MEDHANSH KUSHWAHA B.Tech Computer Science & Engg C
+52125190756 VISHAL SHUKLA B.Tech Computer Science & Engg C
+53125191144 SHRIYA SHETTY B.Tech Computer Science & Engg C
+54125163964 RAHUL K S B.Tech Computer Science & Engg C
+55125129023 BONDUGULA PRANAV TEJA B.Tech Computer Science & Engg C
+56125112515 NETHRA GOPINATH B.Tech Computer Science & Engg C
+57125120516 SIDDHARTH KANCHARLA B.Tech Computer Science & Engg C
+58125225106 IFRA MEMON B.Tech Computer Science & Engg C
+59125208354 MADHAV MALPANI B.Tech Computer Science & Engg C
+60125152900  ASHI B.Tech Computer Science & Engg C
+61125145006 ANISH BHAT B.Tech Computer Science & Engg C
+62125121418 ANKIT PADHY B.Tech Computer Science & Engg C
+63125188010 PALAK CHANTIA B.Tech Computer Science & Engg C
+64225111583 ABHINAV PUROHIT B.Tech Computer Science & Engg C
+65225120084 VAIBHAVI JAITLY B.Tech Computer Science & Engg C
+66225115897 SHAVETHA REDDY PALAPATI B.Tech Computer Science & Engg C
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec D
+Sl NoApplication Number Candidate Name Course Name Section 
+1125241983 LAKSHYA PANT B.Tech Computer Science & Engg D
+2125117926 PADARTHY SREE TANVI B.Tech Computer Science & Engg D
+3125196937 QURIE RAWAT B.Tech Computer Science & Engg D
+4125177171 SHOURYA KUKREJA B.Tech Computer Science & Engg D
+5125242054 DAKSH MINHAS B.Tech Computer Science & Engg D
+6125206743 TIYA RANKA B.Tech Computer Science & Engg D
+7125195603 ABHIRAJ SINGH B.Tech Computer Science & Engg D
+8125242203 YASHRAJ B.Tech Computer Science & Engg D
+9125117911 SANJOLI JAIN B.Tech Computer Science & Engg D
+10125135954 ABHIK DEBNATH B.Tech Computer Science & Engg D
+11125112132 DHRUV MALIK B.Tech Computer Science & Engg D
+12125115560 AAISHI GUPTA B.Tech Computer Science & Engg D
+13125161946 AADITYA RAGHAV RAO B.Tech Computer Science & Engg D
+14125121157 SANIDHYA YADAV B.Tech Computer Science & Engg D
+15125212335 NAVYA SHETTY B.Tech Computer Science & Engg D
+16125236951 AARUSH KAUSHAL B.Tech Computer Science & Engg D
+17125202537 BHARATI HEGDE B.Tech Computer Science & Engg D
+18125208845 PRAGYAN MITTAL B.Tech Computer Science & Engg D
+19125134958 SANIDHYA PRASAD B.Tech Computer Science & Engg D
+20125206546 AARON PAUL B.Tech Computer Science & Engg D
+21125118882 M NIDHUVANA B.Tech Computer Science & Engg D
+22125255921 DEVANSH TEWARI B.Tech Computer Science & Engg D
+23125121964 SURYA TEJA REDDY KONREDDY B.Tech Computer Science & Engg D
+24125194561 KATHI LAKSHMI MANI HARSHIKA B.Tech Computer Science & Engg D
+25125254076 QUSAI MURTAZA SAIFY B.Tech Computer Science & Engg D
+26125117740 AASHKA SRIVASTAVA B.Tech Computer Science & Engg D
+27125125324 RAYAN MUHAMMED NIZAR B.Tech Computer Science & Engg D
+28125204418 ARADHYA GUPTA B.Tech Computer Science & Engg D
+29125196718 AASHITA SAINI B.Tech Computer Science & Engg D
+30125203173 RUDRANSH SHARMA B.Tech Computer Science & Engg D
+31125212324 HARSH VARDHAN SRIVASTAVA B.Tech Computer Science & Engg D
+32125169398 ADITI AMOL KAMAT B.Tech Computer Science & Engg D
+33125122496 MANDADI REVANTH REDDY B.Tech Computer Science & Engg D
+34125133649 AARUSHI SETHI B.Tech Computer Science & Engg D
+35125145128 KANDA ARJUN SAI B.Tech Computer Science & Engg D
+36125194012 ADITYA KUMAR B.Tech Computer Science & Engg D
+37125117902 POLAM DEEPTHI B.Tech Computer Science & Engg D
+38125120952 KASIBHATLA VENKATA RAMA SAI CHARAN B.Tech Computer Science & Engg D
+39125250608 NAITIK SINGH B.Tech Computer Science & Engg D
+40125117990 ALEENA ANN ALEXANDER B.Tech Computer Science & Engg D
+41125163418 MEDHANSH VASHISHT B.Tech Computer Science & Engg D
+42125126264 AADI JAIN B.Tech Computer Science & Engg D
+43125146350 RAHUL DAS B.Tech Computer Science & Engg D
+44125160196 AARUSH KULKARNI B.Tech Computer Science & Engg D
+45125114772 SUNIDHI P B.Tech Computer Science & Engg D
+46125120830 KRITHIK MANYAM B.Tech Computer Science & Engg D
+47125116936 MAANYA A B.Tech Computer Science & Engg D
+48125128212 RUDRAKSH RUPESH VADI B.Tech Computer Science & Engg D
+MIT Bengaluru B.Tech Section Allotment
+49125198881 SAKET GARG B.Tech Computer Science & Engg D
+50125148578 AAHANA SINGH B.Tech Computer Science & Engg D
+51125214995 JAJA SAI CHARAN RAO B.Tech Computer Science & Engg D
+52125167327 MUSUNURU RISHI TEJ B.Tech Computer Science & Engg D
+53125114338 SUNAHRI KOTHARI B.Tech Computer Science & Engg D
+54125201880 HET SHAILESHKUMAR PATEL B.Tech Computer Science & Engg D
+55125120151 TEDLA TANUJ ADITHYA B.Tech Computer Science & Engg D
+56125139276 ATULAYA GUPTA B.Tech Computer Science & Engg D
+57125116554 ADITYA CHOUDHURY B.Tech Computer Science & Engg D
+58125116860 AADHIRA KAMARAJ B.Tech Computer Science & Engg D
+59125249664 MADARAJU SAI NAGA PAVAN B.Tech Computer Science & Engg D
+60125237111 MALAVIKA PS B.Tech Computer Science & Engg D
+61125156552 PUTHAN SIDHANT B.Tech Computer Science & Engg D
+62125217292 ADITI SINGH B.Tech Computer Science & Engg D
+63125127495 DAKSH CHOUDHARY B.Tech Computer Science & Engg D
+64225113252 DHRUVI KINJALKUMAR GOHEL B.Tech Computer Science & Engg D
+65225119810 HARSH TIWARY B.Tech Computer Science & Engg D
+66225114956 HARSHITA SANJIV CHANDANE B.Tech Computer Science & Engg D
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec E
+Sl NoApplication Number Candidate Name Course Name Section 
+1125125815 AYAAN C B.Tech Computer Science & Engg E
+2125125653 SIDDHI NITIN VIRULKAR B.Tech Computer Science & Engg E
+3125131681 KAPPALA NUTAN SRI MANOJNA B.Tech Computer Science & Engg E
+4125222484 CHIRAG BELMANNU B.Tech Computer Science & Engg E
+5125185909 GITANSH SATIJA B.Tech Computer Science & Engg E
+6125123213 MAITRI GUPTA B.Tech Computer Science & Engg E
+7125249698 SAI MADHAV B.Tech Computer Science & Engg E
+8125144744 ELUGOTI NIKHIL KARTHIKEYA B.Tech Computer Science & Engg E
+9125186116 VAIDEHI AGARWAL B.Tech Computer Science & Engg E
+10125123784 AARUSH SURYA B.Tech Computer Science & Engg E
+11125194239 ANANT MISHRA B.Tech Computer Science & Engg E
+12125132666 KEYA REDDY PREMRAJ B.Tech Computer Science & Engg E
+13125249291 AARUSH SRIVASTAVA B.Tech Computer Science & Engg E
+14125165810 YASH JAISWAL B.Tech Computer Science & Engg E
+15125135432 RIYA SINGH B.Tech Computer Science & Engg E
+16125138175 VIDHANSHU GOYAL B.Tech Computer Science & Engg E
+17125133878 NAIDU ASHISH SAI B.Tech Computer Science & Engg E
+18125118164 SALONI RUIA B.Tech Computer Science & Engg E
+19125157429 ADITYA AWASTHI B.Tech Computer Science & Engg E
+20125123189 SANA YUVAN SREE B.Tech Computer Science & Engg E
+21125208257 MANI KARNICA DHULIPALA B.Tech Computer Science & Engg E
+22125144117 ARYAN SRIDEEP B.Tech Computer Science & Engg E
+23125192365 ALLE BHAVISH REDDY B.Tech Computer Science & Engg E
+24125164193 VANI GARG B.Tech Computer Science & Engg E
+25125152225 SHIVANSH RAHEJA B.Tech Computer Science & Engg E
+26125133004 SUHAANI GUNDECHA B.Tech Computer Science & Engg E
+27125125287 NIKHIL SAI KADIRI B.Tech Computer Science & Engg E
+28125111832 VINEETH KUMAR V B.Tech Computer Science & Engg E
+29125164267 ANTARA CHHABRA B.Tech Computer Science & Engg E
+30125186677 BHAVYAM ARORA B.Tech Computer Science & Engg E
+31125235302 MOKSHITH R B.Tech Computer Science & Engg E
+32125179765 ANVI MENON B.Tech Computer Science & Engg E
+33125143455 AARON KURUVILLA MATHEW B.Tech Computer Science & Engg E
+34125127872 AASHNA MAHAPATRA B.Tech Computer Science & Engg E
+35125231227 PRATYUSH GUPTA B.Tech Computer Science & Engg E
+36125116316 KAUSHAL KOMPALLI B.Tech Computer Science & Engg E
+37125206613 AYSHIKA RAY SAWARKAR B.Tech Computer Science & Engg E
+38125118505 SRIJAN SATYA BANDARU B.Tech Computer Science & Engg E
+39125207335 KUMAR VITTHAL B.Tech Computer Science & Engg E
+40125117472 NISHITA VEMURU B.Tech Computer Science & Engg E
+41125117903 SUSHANTH V HEGDE B.Tech Computer Science & Engg E
+42125204415 CHARAN TEJA.U B.Tech Computer Science & Engg E
+43125197754 DEVANSH TRIPATHI B.Tech Computer Science & Engg E
+44125164574 HEREN PANDIT B.Tech Computer Science & Engg E
+45125203701 PARIDHI KHURANA B.Tech Computer Science & Engg E
+46125154487 AYUSH AVINASH RYAKA B.Tech Computer Science & Engg E
+47125164715 SHRIMOYEE SARKAR B.Tech Computer Science & Engg E
+48125204309 NIKHIL SINGH BISHT B.Tech Computer Science & Engg E
+MIT Bengaluru B.Tech Section Allotment
+49125121118 KAMARSU PRANAVA KARTHIKEYA B.Tech Computer Science & Engg E
+50125121574 UNNATI MANOJ HANCHATE B.Tech Computer Science & Engg E
+51125168109 AARUSH SHUKLA B.Tech Computer Science & Engg E
+52125188126 HARSHITH M S B.Tech Computer Science & Engg E
+53125145413 RHEA SURESH UDUTHA B.Tech Computer Science & Engg E
+54125177072 PERURI NEELKANI VARMA B.Tech Computer Science & Engg E
+55125161170 ADITHYA G BHAT B.Tech Computer Science & Engg E
+56125118469 VEDHA RAI B.Tech Computer Science & Engg E
+57125214069 TARUN M S B.Tech Computer Science & Engg E
+58125171859 SHREYA MANOJ B.Tech Computer Science & Engg E
+59125216717 ADHYAYAN DIMRI B.Tech Computer Science & Engg E
+60125218609 GAYATRI APEKSHA AGARWAL B.Tech Computer Science & Engg E
+61125202545 SANGIREDDY AMIT KUMAR B.Tech Computer Science & Engg E
+62125117685 KODALI VARUN KUMAR B.Tech Computer Science & Engg E
+63225115434 NATHAN ANISH CHANDY B.Tech Computer Science & Engg E
+64225120460 MADHURI YECHURI B.Tech Computer Science & Engg E
+65225118098 NITYAGNA GOGULAPATI B.Tech Computer Science & Engg E
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec F
+Sl NoApplication Number Candidate Name Course Name Section 
+1125208296 SWAYAM TAYALIA B.Tech Computer Science & Engg F
+2125148290 ISHITA SINGH B.Tech Computer Science & Engg F
+3125226250 SEMIKALA CHANDRA HASINI REDDY B.Tech Computer Science & Engg F
+4125144196 ATTANUR LAKSHMEESH KARTHIK B.Tech Computer Science & Engg F
+5125185829 GUNTUPALLI GNANISH TEJA B.Tech Computer Science & Engg F
+6125165548 SRI RITHISHA GUNDUR B.Tech Computer Science & Engg F
+7125193000 SHRESHTA JAISWAL B.Tech Computer Science & Engg F
+8125190367 GADE RUDRANATH SRIVATSA B.Tech Computer Science & Engg F
+9125196389 TISTA TEWANI B.Tech Computer Science & Engg F
+10125154446 GEORGE KURUVILLA PALAKKUNNEL B.Tech Computer Science & Engg F
+11125140051 NAGULAN R B.Tech Computer Science & Engg F
+12125129699 SNEHIL KEJRIWAL B.Tech Computer Science & Engg F
+13125171969 HASINI REDDY POTUKANUMA B.Tech Computer Science & Engg F
+14125140688 KUCHAMPUDI HANEESH VARMA B.Tech Computer Science & Engg F
+15125152395 ARSHIA JAIN B.Tech Computer Science & Engg F
+16125219302 TILAK RAJU LALBUNDRE B.Tech Computer Science & Engg F
+17125196436 SATVIK JAISWAL B.Tech Computer Science & Engg F
+18125174212 VEENYA SRIVASTAVA B.Tech Computer Science & Engg F
+19125164591 SUYASH LEHRI B.Tech Computer Science & Engg F
+20125112303 AKSHAY NARAYAN B.Tech Computer Science & Engg F
+21125201510  ANUSHKA B.Tech Computer Science & Engg F
+22125232587 SHUBHAM KULKARNI B.Tech Computer Science & Engg F
+23125201697 TANMAY DAS B.Tech Computer Science & Engg F
+24125112372 VELUGOTI SRI HAMSINI REDDY B.Tech Computer Science & Engg F
+25125125817 ARIN PATTNAIK B.Tech Computer Science & Engg F
+26125112285 NEHA SURESH B.Tech Computer Science & Engg F
+27125215355 ARPIT KUMAR B.Tech Computer Science & Engg F
+28125175190 CHAGARLAMUDI SAI VENKAT B.Tech Computer Science & Engg F
+29125114502 SVITHI SHIMJIT B.Tech Computer Science & Engg F
+30125161373 KOTHAKAPU CHITRAKSH REDDY B.Tech Computer Science & Engg F
+31125122412  SAKSHAM B.Tech Computer Science & Engg F
+32125178493 ANIKA RAWAT B.Tech Computer Science & Engg F
+33125117720 PRAJWAL R S B.Tech Computer Science & Engg F
+34125142301 SRIHASINI POOSARLA B.Tech Computer Science & Engg F
+35125178821 UDAY UNNIKRISHNAN B.Tech Computer Science & Engg F
+36125260689 MAYUKH DAS B.Tech Computer Science & Engg F
+37125190164 JYOTSNA ALLIKA B.Tech Computer Science & Engg F
+38125165888 NEELESH UDASI B.Tech Computer Science & Engg F
+39125162022 AKSHAT VERMA B.Tech Computer Science & Engg F
+40125116997 DHRUV AGARWAL B.Tech Computer Science & Engg F
+41125175448 AANVI ASHITH SHETTY B.Tech Computer Science & Engg F
+42125172317 AMOGH BIYAL B.Tech Computer Science & Engg F
+43125190401 OM TIWARI B.Tech Computer Science & Engg F
+44125190699 MD AFFAN JAMIL B.Tech Computer Science & Engg F
+45125143958 TANISHA B.Tech Computer Science & Engg F
+46125123733 KUSUMANCHI SAI VENKATESH B.Tech Computer Science & Engg F
+47125191497 ESHITA SINGH B.Tech Computer Science & Engg F
+48125120921 LINGA CHANAKYA B.Tech Computer Science & Engg F
+MIT Bengaluru B.Tech Section Allotment
+49125122342 ALI AHMED KHAN B.Tech Computer Science & Engg F
+50125185389 ANCHITA PANDEY B.Tech Computer Science & Engg F
+51125242393 ADITYA SINGH BHADORIYA B.Tech Computer Science & Engg F
+52125204838 NAMANJOT SINGH B.Tech Computer Science & Engg F
+53125172496 VIDUSHI JAIN B.Tech Computer Science & Engg F
+54125138925 YUVI AHUJA B.Tech Computer Science & Engg F
+55125164927 PRANAV IVATURI B.Tech Computer Science & Engg F
+56125123244 DIYA BASHEER MC B.Tech Computer Science & Engg F
+57125175965 DUDDUPUDI ABHINAV B.Tech Computer Science & Engg F
+58125218993 BHUMIKA JAISWAL B.Tech Computer Science & Engg F
+59125116903 PRANAV JITESH MUKUNDAN B.Tech Computer Science & Engg F
+60125139173 MEDHA DHAYAPULE B.Tech Computer Science & Engg F
+61125241688 HARSH VARDHAN SINGH B.Tech Computer Science & Engg F
+62125240015 SANSKAR JAISWAL B.Tech Computer Science & Engg F
+63225114235 REHAN ALI SAIYED B.Tech Computer Science & Engg F
+64225120633 ADITYA DUBEY B.Tech Computer Science & Engg F
+65225111589 ROHAK HARRISON B.Tech Computer Science & Engg F
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec G
+Sl NoApplication Number Candidate Name Course Name Section 
+1125187009 DUTTA TEJASWANTH B.Tech Computer Science & Engg G
+2125158752  AKHILA B.Tech Computer Science & Engg G
+3125116269 DEEKSHA UMESH B.Tech Computer Science & Engg G
+4125160131 TEJAS MESHRAM B.Tech Computer Science & Engg G
+5125215696 BHARAT PARASHARI B.Tech Computer Science & Engg G
+6125120296 SNEHA VENKUMAHANTHI B.Tech Computer Science & Engg G
+7125125889 ASHISH SIDDANNA HAVANNAVAR B.Tech Computer Science & Engg G
+8125197287 YADAVELLI CHARAN TEJ REDDY B.Tech Computer Science & Engg G
+9125145973 AANYA BHARTI B.Tech Computer Science & Engg G
+10125168610 AARAV MITTAL B.Tech Computer Science & Engg G
+11125139350 AMEYA SHAM NAIK B.Tech Computer Science & Engg G
+12125204202 ABHAY CHAUHAN B.Tech Computer Science & Engg G
+13125131352 RAPOLU KRUTHI B.Tech Computer Science & Engg G
+14125164465 ALWAPURAM PRANAV RAO B.Tech Computer Science & Engg G
+15125128544 MOILLA LASYA REDDY B.Tech Computer Science & Engg G
+16125142095 RONAV SINGHAL B.Tech Computer Science & Engg G
+17125212639 YENDURI SRI HARSITH B.Tech Computer Science & Engg G
+18125194894 PRISHA ROHIT BANSAL B.Tech Computer Science & Engg G
+19125190471 ARNAV GUPTA B.Tech Computer Science & Engg G
+20125182080 AASHISH SUMESH B.Tech Computer Science & Engg G
+21125154350 A P AKSHARA B.Tech Computer Science & Engg G
+22125207228 ADDULA KARTHIK REDDY B.Tech Computer Science & Engg G
+23125112751 KSHITHIJ S KARTHIK B.Tech Computer Science & Engg G
+24125182283 KANAK PODDAR B.Tech Computer Science & Engg G
+25125226421 RAJVARDHAN PRASHANT MANE B.Tech Computer Science & Engg G
+26125123276 VENKATALAKSHMI R M B.Tech Computer Science & Engg G
+27125184082 HARSH RAJ B.Tech Computer Science & Engg G
+28125145797 MEHUL RATHI B.Tech Computer Science & Engg G
+29125115899 AISWARYAA RAJAKUMAR B.Tech Computer Science & Engg G
+30125225524 SUDARSHAN PAI Y B.Tech Computer Science & Engg G
+31125151759 KEVIN JASON AGERA B.Tech Computer Science & Engg G
+32125139965 KANISHKA REDDY KANCHARLA B.Tech Computer Science & Engg G
+33125140953 PAVAN P B.Tech Computer Science & Engg G
+34125202885 ZAINA NASSER B.Tech Computer Science & Engg G
+35125170793 NEERAJ N B.Tech Computer Science & Engg G
+36125227638 PRAGNAY NARVA B.Tech Computer Science & Engg G
+37125240853 MAHEK JAISWAL B.Tech Computer Science & Engg G
+38125133294 RONANKI SAI HARSHA B.Tech Computer Science & Engg G
+39125166963 ADITYA VIJAY B.Tech Computer Science & Engg G
+40125220761 NARUN C B.Tech Computer Science & Engg G
+41125142215 SWATI DIDEESH B.Tech Computer Science & Engg G
+42125201469 PARACAL AMAAN YUSUF B.Tech Computer Science & Engg G
+43125175770 ADITYA SINGHANIA B.Tech Computer Science & Engg G
+44125150020 SHREYASH ROUT B.Tech Computer Science & Engg G
+45125122661 LAVANYA KALIA B.Tech Computer Science & Engg G
+46125205990 VRISHANK BATRA B.Tech Computer Science & Engg G
+47125213009 VEDHA SINGH B.Tech Computer Science & Engg G
+48125167283 HITANSH VERMA B.Tech Computer Science & Engg G
+MIT Bengaluru B.Tech Section Allotment
+49125159401 C HEMANGA B.Tech Computer Science & Engg G
+50125156851 JANANI SRIRAM B.Tech Computer Science & Engg G
+51125194888 AKSHAT VORA B.Tech Computer Science & Engg G
+52125189728 NAVAANKUR DEKA B.Tech Computer Science & Engg G
+53125145146 SANVI SHRIMALI B.Tech Computer Science & Engg G
+54125204728 SUMAN KAARTHI A B.Tech Computer Science & Engg G
+55125258682 KUSHAGRA SHARMA B.Tech Computer Science & Engg G
+56125202172 SRIJA MAJUMDAR B.Tech Computer Science & Engg G
+57125162801 HARIPRANAV RAJESH B.Tech Computer Science & Engg G
+58125171217 ASHI GUPTA B.Tech Computer Science & Engg G
+59125111993 YASH KHANDELWAL B.Tech Computer Science & Engg G
+60125116145 SANVI AGARWAL B.Tech Computer Science & Engg G
+61125116682 CHETHAS K B.Tech Computer Science & Engg G
+62125240307 SAHIL DAS B.Tech Computer Science & Engg G
+63225118700 RAGA REDDY MULI B.Tech Computer Science & Engg G
+64225119913 KABEER NAZISH AHMED B.Tech Computer Science & Engg G
+65225115161 SWEEDAL ALVINA CORREA B.Tech Computer Science & Engg G
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec H
+Sl NoApplication Number Candidate Name Course Name Section 
+1125115161 AKSHAT ABHISHEK AGRAWAL B.Tech Computer Science & Engg H
+2125155184 DHANYASHREE R N B.Tech Computer Science & Engg H
+3125175984 KATTOJU SOURABH B.Tech Computer Science & Engg H
+4125138530 KAAVYA J B.Tech Computer Science & Engg H
+5125238202 AMARNATH K B.Tech Computer Science & Engg H
+6125117867 SHIVIKA AGARWAL B.Tech Computer Science & Engg H
+7125142092 ADITYA SURESH B.Tech Computer Science & Engg H
+8125117428 AKSHATH PRAVEEN B.Tech Computer Science & Engg H
+9125124720 ANKITA OJHA B.Tech Computer Science & Engg H
+10125246496 CHENNURU GAUTAM B.Tech Computer Science & Engg H
+11125128592 PRIYANSHU SHARMA B.Tech Computer Science & Engg H
+12125177001 MALLAKUNTA YOSHITH REDDY B.Tech Computer Science & Engg H
+13125164429 IHITA MODI B.Tech Computer Science & Engg H
+14125205598 ARNAV SHARMA B.Tech Computer Science & Engg H
+15125192241 MISHA ADITYA B.Tech Computer Science & Engg H
+16125150227 AKSHAJ JAIN B.Tech Computer Science & Engg H
+17125196292 PRANAY GOYAL B.Tech Computer Science & Engg H
+18125150695 KRISHA DAMANIA B.Tech Computer Science & Engg H
+19125202735 ABHINAV PAL B.Tech Computer Science & Engg H
+20125179109 SARTHAK DEEP B.Tech Computer Science & Engg H
+21125202771  NANDINI B.Tech Computer Science & Engg H
+22125235802 SHAURYA GUPTA B.Tech Computer Science & Engg H
+23125203715 ROHITASHVA VERMA B.Tech Computer Science & Engg H
+24125113699 ANANDITA PAUL B.Tech Computer Science & Engg H
+25125259442 ADAMYA MAMGAIN B.Tech Computer Science & Engg H
+26125237370 MRIDUL MAHAJAN B.Tech Computer Science & Engg H
+27125165552 APATI RUCHITHA B.Tech Computer Science & Engg H
+28125180386 ANUMALASETTY AKHIL GUPTA B.Tech Computer Science & Engg H
+29125176262 SHRAVANI CHERUVU B.Tech Computer Science & Engg H
+30125112258 K SAATHVIK PRABHU B.Tech Computer Science & Engg H
+31125156553 SHAURYA SINGH B.Tech Computer Science & Engg H
+32125183052 AADYA AGARWAL B.Tech Computer Science & Engg H
+33125205486 RITVIK GARG B.Tech Computer Science & Engg H
+34125209418 ANCHAL AGARWAL B.Tech Computer Science & Engg H
+35125169198 VARUN PRABHAKAR TEWARSON B.Tech Computer Science & Engg H
+36125145877 CHARAN NITESH B B.Tech Computer Science & Engg H
+37125161968 SOHAM ANANT VARADE B.Tech Computer Science & Engg H
+38125126433 ANANDI BARUA B.Tech Computer Science & Engg H
+39125117830 SHOUNAK GUPTA B.Tech Computer Science & Engg H
+40125158822 SAMANYU S B.Tech Computer Science & Engg H
+41125133686 JAXIN GODLINA R B.Tech Computer Science & Engg H
+42125159832 SAKSHAM WADHWA B.Tech Computer Science & Engg H
+43125237079 RIBHU PAL B.Tech Computer Science & Engg H
+44125135347 ANGAD AHUJA B.Tech Computer Science & Engg H
+45125125989 POOJA LALIT MENDAPARA B.Tech Computer Science & Engg H
+46125157353 GUNDLURU DHANUSH REDDY B.Tech Computer Science & Engg H
+47125136850 YASHASVI MUNJAL B.Tech Computer Science & Engg H
+48125141570 B TVISHA RAI B.Tech Computer Science & Engg H
+MIT Bengaluru B.Tech Section Allotment
+49125192844  SARANSH B.Tech Computer Science & Engg H
+50125156586 KREETI CHAUDHARY B.Tech Computer Science & Engg H
+51125137257 ADITYA PRASHANTH B.Tech Computer Science & Engg H
+52125198183 AKASH KULKARNI B.Tech Computer Science & Engg H
+53125247824 BUVANESWARI M B.Tech Computer Science & Engg H
+54125236918 YASHVEER SINGH B.Tech Computer Science & Engg H
+55125122994 ARNAV GOYAL B.Tech Computer Science & Engg H
+56125157149 SHRISTI SINGH B.Tech Computer Science & Engg H
+57125182902 ADIT AGRAWAL B.Tech Computer Science & Engg H
+58125112755 DHRUVI ACHAR B.Tech Computer Science & Engg H
+59125198666 ABHISHEK SINGH B.Tech Computer Science & Engg H
+60125113307 NIRUPAMA MOHAN B.Tech Computer Science & Engg H
+61125251819 AHMED ASHIQ ABDUL KADER B.Tech Computer Science & Engg H
+62125130310 SAMIT GERA B.Tech Computer Science & Engg H
+63225118804 MEHAK DUA B.Tech Computer Science & Engg H
+64225115459 VARSHINE RAJA B.Tech Computer Science & Engg H
+65225111992 KREETI CHAUDHARY B.Tech Computer Science & Engg H
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec I
+Sl NoApplication Number Candidate Name Course Name Section 
+1125176676 HRISHAV SAHA B.Tech Computer Science & Engg I
+2125134448 SANVI SHARMA B.Tech Computer Science & Engg I
+3125131439 MAYIN KRISHNA TATAVARTI B.Tech Computer Science & Engg I
+4125262398 KRITGYA BAJAJ B.Tech Computer Science & Engg I
+5125121072 SHAWKARI SAI GANESH B.Tech Computer Science & Engg I
+6125118630 PILLALAMARRI SRIYOUTHA B.Tech Computer Science & Engg I
+7125129311 GAJJALA DHEERAJ LINGESWARA REDDY B.Tech Computer Science & Engg I
+8125118326 BHAVIN ADAPA B.Tech Computer Science & Engg I
+9125165232 KUSUMBA SAI RASAGNA B.Tech Computer Science & Engg I
+10125169670  PRANSHU B.Tech Computer Science & Engg I
+11125118257 MOHAMMAD SALMAN B.Tech Computer Science & Engg I
+12125149185 KOPPULA MOKSHITH REDDY B.Tech Computer Science & Engg I
+13125131609 BHUVANA MELLIMPUDI B.Tech Computer Science & Engg I
+14125210678 DHRUV BISHT B.Tech Computer Science & Engg I
+15125132656 GARNENI TEJASWI B.Tech Computer Science & Engg I
+16125249286 ARNISH SINHA B.Tech Computer Science & Engg I
+17125111908 YASH PANCHAXARI B.Tech Computer Science & Engg I
+18125115793 ABHILASHA DAS B.Tech Computer Science & Engg I
+19125114125 ANISH CHARUDATTA PATIL B.Tech Computer Science & Engg I
+20125124408 EVAAN SHETTY B.Tech Computer Science & Engg I
+21125137293 PRACHI PRADHAN B.Tech Computer Science & Engg I
+22125138491 ISHAYU KANT B.Tech Computer Science & Engg I
+23125175378 VIKRAM VERMA B.Tech Computer Science & Engg I
+24125194603 KEERTHANA PRABHU SANKAR B.Tech Computer Science & Engg I
+25125221850 PRATEEK DOSHI B.Tech Computer Science & Engg I
+26125128139 TANAY THAPAR B.Tech Computer Science & Engg I
+27125171665 HASINI GURRAM B.Tech Computer Science & Engg I
+28125175395 RAGHAV KHOSLA B.Tech Computer Science & Engg I
+29125129375 ANSHITA SAHA B.Tech Computer Science & Engg I
+30125248570 ASHWIN BHARADWAJ T S B.Tech Computer Science & Engg I
+31125184852 SHAURYA AGARWAL B.Tech Computer Science & Engg I
+32125234461 ABHIPARNA SAHA B.Tech Computer Science & Engg I
+33125251049 PRIYANSHU CHAUDHARY B.Tech Computer Science & Engg I
+34125151884 JYOTHIKA JAYADEVAN B.Tech Computer Science & Engg I
+35125158998 ARYAN HAZARIKA B.Tech Computer Science & Engg I
+36125124779 RUSHIL KARTHIK SETTY B.Tech Computer Science & Engg I
+37125186609 ARIGALA HARSHIL B.Tech Computer Science & Engg I
+38125144040 ISHITA DEVENDRA BHARAMBE B.Tech Computer Science & Engg I
+39125196409 AYAAN GIRISH MANGLANI B.Tech Computer Science & Engg I
+40125200838 JAYANT BHOLA B.Tech Computer Science & Engg I
+41125254318 KAYASH LATHER B.Tech Computer Science & Engg I
+42125158809 JIGISHA CHAUDA B.Tech Computer Science & Engg I
+43125187668 ARYAN MISHRA B.Tech Computer Science & Engg I
+44125150463 JAGRIT SINGH SHEORAN B.Tech Computer Science & Engg I
+45125145211 VAJRALA YASASWI B.Tech Computer Science & Engg I
+46125192359 LIKHITH REDDY KONADA B.Tech Computer Science & Engg I
+47125217709 RITESH TAPARIA B.Tech Computer Science & Engg I
+48125113292 DIYA SHETTY B.Tech Computer Science & Engg I
+MIT Bengaluru B.Tech Section Allotment
+49125196296 VIDHYARTH NAGAR B.Tech Computer Science & Engg I
+50125124319 AASAKTI ARYA B.Tech Computer Science & Engg I
+51125165029 SHAURYA PARMAR B.Tech Computer Science & Engg I
+52125248450 CHIRANTH MOUDGALYA K R B.Tech Computer Science & Engg I
+53125168565 ANUSHRI NAG B.Tech Computer Science & Engg I
+54125257269 VARAD BALKRISHNA KAMAT B.Tech Computer Science & Engg I
+55125119237 AARAV AJAY SHARMA B.Tech Computer Science & Engg I
+56125118809 NISHA CHOUDHARI B.Tech Computer Science & Engg I
+57125113820 VIGNESH R WARRIER B.Tech Computer Science & Engg I
+58125162150 KEERAT SINGH B.Tech Computer Science & Engg I
+59125154062 KUSHAL KHETAN B.Tech Computer Science & Engg I
+60125196038 DIVYANKA CHOWDHARY B.Tech Computer Science & Engg I
+61125230725 REVANT GAURAV AGRAWAL B.Tech Computer Science & Engg I
+62125142437 SAMARTH SHARMA B.Tech Computer Science & Engg I
+63225118739 SARA JOSEPH B.Tech Computer Science & Engg I
+64225120629 AMAN TALWANI B.Tech Computer Science & Engg I
+65225114863 AMULYA NISSI KANCHARLA B.Tech Computer Science & Engg I
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec J
+Sl NoApplication Number Candidate Name Course Name Section 
+1125120881 RITHVIK SATISH B.Tech Electronics & Communication Engg J
+2125113984 NISHAAD CHACHRA B.Tech Electronics & Communication Engg J
+3125165354 AVANI ANIKET JOSHI B.Tech Robotics and Artificial Intelligence J
+4125170902 ISHAAN PRADYUMNA DUBEY B.Tech Robotics and Artificial Intelligence J
+5125124434 SARANG WARUDKAR B.Tech Electronics & Communication Engg J
+6125119981 AARUSHHI MITRA B.Tech Electronics & Communication Engg J
+7125145160 HITESH SURISETTY B.Tech Electronics Engineering (VLSI Design and Technology) J
+8125201966 SHAMBHAVI BISHT B.Tech Electronics Engineering (VLSI Design and Technology) J
+9125118453 AARUSH HANDA B.Tech Electronics & Communication Engg J
+10125141087 NIDHI ELE B.Tech Electronics & Communication Engg J
+11125122350 KOPAL AGRAWAL B.Tech Electronics & Computer Engg J
+12125156509 AMBARISH PILLAI B.Tech Electronics & Computer Engg J
+13125224177  SOHAN.N B.Tech Electronics & Communication Engg J
+14125227383 ATRI DASGUPTA B.Tech Robotics and Artificial Intelligence J
+15125142995 ABHINAV J PAI B.Tech Electronics & Communication Engg J
+16125129354 THATATHOTI NIKHIL B.Tech Electronics & Communication Engg J
+17125170139 SAI PRANAV SREERAM KAVULURU B.Tech Electronics & Computer Engg J
+18125190490 KANCHARAPU CHARUHASINI B.Tech Electronics & Communication Engg J
+19125213933 REYHANA S B.Tech Electronics & Computer Engg J
+20125146213 AGNISHWAR VARMA B.Tech Electronics & Communication Engg J
+21125161040 VARUN KUMAR J B B.Tech Electronics & Communication Engg J
+22125180421 SEELA ABHISHEK B.Tech Electronics & Computer Engg J
+23125247796 ARYAN KUMAR B.Tech Electronics & Communication Engg J
+24125176215 SHAURYA AWASTHI B.Tech Electronics & Computer Engg J
+25125118289 KAUSHIKA K B.Tech Robotics and Artificial Intelligence J
+26125169538 SARA SETH B.Tech Electronics & Computer Engg J
+27125180855 ARINDAM MUKHERJEE B.Tech Electronics & Computer Engg J
+28125117519 SHREYA SESHU MARINGANTI B.Tech Robotics and Artificial Intelligence J
+29125154895 ADVAITH K B.Tech Robotics and Artificial Intelligence J
+30125250331 MANTRI GOVIND ARJUN B.Tech Electronics & Computer Engg J
+31125115729 SAMARTH NAGALA B.Tech Electronics Engineering (VLSI Design and Technology) J
+32125161338 RISHIT DAS B.Tech Electronics & Computer Engg J
+33125151910 RONITH SHASTRY B.Tech Electronics & Computer Engg J
+34125207310 ADRIJA DAS GUPTA B.Tech Electronics & Computer Engg J
+35125210164 YASHAS Y B B.Tech Electronics & Computer Engg J
+36125254598 NISCHITH HEMANTH B.Tech Electronics & Computer Engg J
+37125114446 SHASHWAT SAHA B.Tech Electronics & Computer Engg J
+38125122688 SURYANSHI VERMA B.Tech Electronics & Computer Engg J
+39125237385 GOVINDRA AKSHAY SRI SAI B.Tech Electronics & Computer Engg J
+40125190776 ASTITVA RAI B.Tech Robotics and Artificial Intelligence J
+41125183301 YATHANSH SINHA B.Tech Electronics & Computer Engg J
+42125127011 AKSHAT RAJ B.Tech Electronics & Computer Engg J
+43125173312 KARUNA BHUTANI B.Tech Robotics and Artificial Intelligence J
+44125165473 NEELIMA NAIR B.Tech Electronics Engineering (VLSI Design and Technology) J
+45125141150 SOURISH WAKODE B.Tech Electronics Engineering (VLSI Design and Technology) J
+46125139538 SHAURYA PUNDE B.Tech Electronics & Computer Engg J
+47125126936 AKANKSHA BHUYAN B.Tech Electronics & Computer Engg J
+48125139818 SHARON GEORGE B.Tech Electronics Engineering (VLSI Design and Technology) J
+MIT Bengaluru B.Tech Section Allotment
+49125258558 SRUJAN SARASWATHI GUDLA B.Tech Robotics and Artificial Intelligence J
+50125235862 PARAS HANCHATEY B.Tech Electronics Engineering (VLSI Design and Technology) J
+51125130103 MANAS GUPTA KESARLA B.Tech Robotics and Artificial Intelligence J
+52125113826 PRIYANKA AJAY B.Tech Robotics and Artificial Intelligence J
+53125157019 NEILESH BHARDWAJ B.Tech Electronics Engineering (VLSI Design and Technology) J
+54125125106 TANISHA PIRI B.Tech Electronics Engineering (VLSI Design and Technology) J
+55125218825 ARYAMAN SINGHAL B.Tech Electronics Engineering (VLSI Design and Technology) J
+56125247000 HAREESH KUMAR M SR B.Tech Electronics Engineering (VLSI Design and Technology) J
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec K
+Sl NoApplication Number Candidate Name Course Name Section 
+1125143443 NIKHEL JOSEPH B.Tech Electronics & Communication Engg K
+2125152454 PONNALA SHIVANSH B.Tech Electronics & Communication Engg K
+3125127802 ARANYA PAUL B.Tech Robotics and Artificial Intelligence K
+4125194263 ANISH KULKARNI B.Tech Electronics & Communication Engg K
+5125240421 ADDEPALLI NAGA VENKATA ANANYA B.Tech Electronics & Communication Engg K
+6125223596 NOULLA SAI PRANAY B.Tech Electronics Engineering (VLSI Design and Technology) K
+7125133459 ABDUL BASIT B.Tech Electronics & Communication Engg K
+8125243082 SONA D PARAKH B.Tech Electronics & Communication Engg K
+9125112920 ADHUL KRISHNAN T R B.Tech Electronics & Communication Engg K
+10125163616 VARUN GOPALAN B.Tech Electronics & Computer Engg K
+11125127780  ANDREA B.Tech Electronics & Computer Engg K
+12125154707  PARTH B.Tech Robotics and Artificial Intelligence K
+13125123570 PRISHA KATHAYAT B.Tech Electronics Engineering (VLSI Design and Technology) K
+14125241462 NAVYA PARUTHI B.Tech Robotics and Artificial Intelligence K
+15125183265 REHAN R PATHAN B.Tech Electronics & Communication Engg K
+16125135350 THUTA ABHINAV B.Tech Electronics & Communication Engg K
+17125162704 KOPPALA RISHI KANTH B.Tech Electronics & Computer Engg K
+18125192775 BODDURU. TEJ KIRAN B.Tech Electronics & Communication Engg K
+19125207181 VEDIKA UNNIKRISHNAN B.Tech Electronics & Computer Engg K
+20125132721 BOINA JASWANTH B.Tech Electronics & Communication Engg K
+21125171288 GUDE JISHNU HANUMA TEJA B.Tech Electronics & Computer Engg K
+22125191412 ASHWIN PAI B.Tech Electronics & Communication Engg K
+23125112626 RIA JOSEPH B.Tech Electronics & Communication Engg K
+24125223964 SIDDHANT MILIND DUGAM B.Tech Electronics & Computer Engg K
+25125237311 SRISRAVANI JEEDIGUNTA B.Tech Electronics & Computer Engg K
+26125238756 ANGEL PRIYA B.Tech Robotics and Artificial Intelligence K
+27125145101 KOPPETI PUSHKAR B.Tech Electronics & Computer Engg K
+28125130532 GARV ANAND B.Tech Robotics and Artificial Intelligence K
+29125149116 ARYAN CHUGH B.Tech Electronics & Computer Engg K
+30125178115 B SRI HASINI B.Tech Robotics and Artificial Intelligence K
+31125115093 SHARMAN SANJAY JEURKAR B.Tech Electronics & Computer Engg K
+32125177907  ADARSH B.Tech Electronics Engineering (VLSI Design and Technology) K
+33125183636 SHREYAAN SARDANA B.Tech Electronics & Computer Engg K
+34125221159 SAMRUDH S ANGADI B.Tech Electronics & Computer Engg K
+35125116958 AROHI JAIN B.Tech Electronics & Computer Engg K
+36125129197 RISHAV DEB B.Tech Electronics & Computer Engg K
+37125167706 KSHITHIJ JAITLY B.Tech Electronics & Computer Engg K
+38125161736 R RASHMIKA B.Tech Electronics & Computer Engg K
+39125177561 VIVAN D MEHTA B.Tech Electronics & Computer Engg K
+40125261638 UMANG KUMAR GUPTA B.Tech Robotics and Artificial Intelligence K
+41125190360 ARUSH BAJPAI B.Tech Electronics & Computer Engg K
+42125190797 SOHAM SANTOSH CHAKOR B.Tech Electronics & Computer Engg K
+43125114587 AKSHAT RAHUL JAISWAL B.Tech Electronics Engineering (VLSI Design and Technology) K
+44125183809 KARAN SINGH RAWAT B.Tech Electronics & Computer Engg K
+45125125719 ARADHANA KARUNAGARAN B.Tech Electronics & Computer Engg K
+46125212304 ASHMIRAA SHAHENAM B.Tech Robotics and Artificial Intelligence K
+47125206877 DITI JOSHI B.Tech Electronics Engineering (VLSI Design and Technology) K
+48125130117 SRIVAISHNAV KETHU B.Tech Electronics Engineering (VLSI Design and Technology) K
+MIT Bengaluru B.Tech Section Allotment
+49125135041 ADVAIT SHRIVASTAVA B.Tech Robotics and Artificial Intelligence K
+50125176556 SHOUNOK MISHRA B.Tech Electronics Engineering (VLSI Design and Technology) K
+51125165941  SHRAVANI B.Tech Robotics and Artificial Intelligence K
+52125163810 HRITVIK SINGH B.Tech Robotics and Artificial Intelligence K
+53125259749 SHASHANK D KARIGAR B.Tech Electronics Engineering (VLSI Design and Technology) K
+54125137726 RENEESA JAISWAL B.Tech Electronics Engineering (VLSI Design and Technology) K
+55125123770 SHAURYA VASUDEV B.Tech Electronics Engineering (VLSI Design and Technology) K
+56125125972 DARSH ANURAG B.Tech Electronics Engineering (VLSI Design and Technology) K
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec L
+Sl NoApplication Number Candidate Name Course Name Section 
+1125212360 SUJAL AGARWAL B.Tech Electronics & Communication Engg L
+2125164956 AAYUSH SANTOSH KADAM B.Tech Electronics & Communication Engg L
+3125113266 GAURI SHANKAR B.Tech Robotics and Artificial Intelligence L
+4125112310 REHAN KHAN B.Tech Electronics & Communication Engg L
+5125117934 TANUSHREE GUNDUMANE ARAVIND B.Tech Electronics & Communication Engg L
+6125238155 CHUNDRU VENKATASAI ADITHYA B.Tech Electronics & Communication Engg L
+7125117547 ARNAV MATHUR B.Tech Electronics Engineering (VLSI Design and Technology) L
+8125163318 CHIKKAM SRIVALLI CHANDANA B.Tech Electronics & Communication Engg L
+9125184798 MANOHAR ANEGUNDI B.Tech Electronics & Communication Engg L
+10125115206 PRIYAM ROUT B.Tech Electronics & Computer Engg L
+11125166265 NAVYA GUPTA B.Tech Electronics & Computer Engg L
+12125207268 RAGHAV SUBRAMANIAN B.Tech Electronics & Communication Engg L
+13125111931 SAJAL GUPTA B.Tech Electronics & Communication Engg L
+14125182582 ANSHU S NICHANI B.Tech Robotics and Artificial Intelligence L
+15125162397 VANSH BALIYAN B.Tech Electronics & Computer Engg L
+16125126670 RITHIKA V B.Tech Electronics Engineering (VLSI Design and Technology) L
+17125202997 ROHINISH SINGH B.Tech Robotics and Artificial Intelligence L
+18125261655 NISHIT SHRIVASTAVA B.Tech Electronics & Communication Engg L
+19125173013 ASMI DALVI B.Tech Electronics & Computer Engg L
+20125200662 YATHARTH GUPTA B.Tech Electronics & Communication Engg L
+21125203303 RAJ TYAGI B.Tech Electronics & Computer Engg L
+22125171760 PRANJAL KANDWAL B.Tech Electronics & Communication Engg L
+23125131637 DEVANSH MADAAN B.Tech Electronics & Computer Engg L
+24125199545 KHANAK BHOJWANI B.Tech Robotics and Artificial Intelligence L
+25125175896 RIZA FATIMA B.Tech Electronics & Computer Engg L
+26125218446 AYUSH VYAS B.Tech Electronics & Computer Engg L
+27125172614 ADITYA SARMAH B.Tech Electronics & Computer Engg L
+28125115447 PRANAV SIVAKUMAR B.Tech Electronics & Computer Engg L
+29125152804 SARIPURI BHAVESH B.Tech Robotics and Artificial Intelligence L
+30125217174 ADVIK KAUSHIK B.Tech Electronics & Computer Engg L
+31125120205 ARCHIT GAJANAN SHANBHAG B.Tech Electronics & Computer Engg L
+32125132074 YUVAAN MITTRA B.Tech Electronics Engineering (VLSI Design and Technology) L
+33125153184 PRANAVI GATKAL B.Tech Robotics and Artificial Intelligence L
+34125187318 KONDREDDI RISHAB REDDY B.Tech Electronics & Computer Engg L
+35125235620 ANWESHA PRIYADARSANI PATTANAIK B.Tech Electronics & Computer Engg L
+36125160520 AKSHATH BARUAH B.Tech Electronics & Computer Engg L
+37125169086 NALUBOLU MOKSHITHA REDDY B.Tech Electronics & Computer Engg L
+38125128782 NILAY SINGH B.Tech Electronics & Computer Engg L
+39125150171 KAVYA BARAL B.Tech Robotics and Artificial Intelligence L
+40125127323 ADITYA KIRAN ALUR B.Tech Electronics & Computer Engg L
+41125148031 TALAKONDA RITESH B.Tech Electronics & Computer Engg L
+42125152615 VEER MEHRA B.Tech Electronics & Computer Engg L
+43125122000 ASHUTOSH DEVAKI B.Tech Electronics Engineering (VLSI Design and Technology) L
+44125170441 MS SOUMYA B.Tech Electronics & Computer Engg L
+45125191046 SAMRIDDHI YADAV B.Tech Electronics Engineering (VLSI Design and Technology) L
+46125230648 ANSHITA DHINGRA B.Tech Robotics and Artificial Intelligence L
+47125144876 KANISHK THOGULUVA RAMESH BABU B.Tech Electronics Engineering (VLSI Design and Technology) L
+48125122330 PS AKARSH B.Tech Robotics and Artificial Intelligence L
+MIT Bengaluru B.Tech Section Allotment
+49125199949 DAVE DENNIES B.Tech Electronics Engineering (VLSI Design and Technology) L
+50125144219 PYDAH VISHAL B.Tech Electronics Engineering (VLSI Design and Technology) L
+51125124415 THARUN SM B.Tech Robotics and Artificial Intelligence L
+52125197909 KASHISH GUPTA B.Tech Electronics Engineering (VLSI Design and Technology) L
+53125116722 GURUNAND HANVAL B.Tech Electronics Engineering (VLSI Design and Technology) L
+54125153636 SAI SATYA SUJAL SABBAVARAPU B.Tech Electronics Engineering (VLSI Design and Technology) L
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec M
+Sl NoApplication Number Candidate Name Course Name Section 
+1125256504 PARTH KAUSTUBH DESHPANDE B.Tech Computer Science & Engg M
+2125161464 PRIYANSHI CHAURASIA B.Tech Computer Science & Engg M
+3125252441 SHREYA SINGH B.Tech Computer Science & Engg M
+4125196644 DARSHAN S B.Tech Computer Science & Engg M
+5125199959 ALPHIN MATHEW BIJO B.Tech Computer Science & Engg M
+6125195863 ARJUN CHATURVEDI B.Tech Computer Science & Engg M
+7125244356 GEETHIKA MAMIDI B.Tech Computer Science & Engg M
+8125152880 PICHIKALA PRANAV B.Tech Computer Science & Engg M
+9125228541 ANNAVARAPU SURYA KARTHIK B.Tech Computer Science & Engg M
+10125183787 PAVITRA RAJESH BORIKAR B.Tech Computer Science & Engg M
+11125256866 ANIRUDH VERMA B.Tech Computer Science & Engg M
+12125190979 AKILESH AKELLA B.Tech Computer Science & Engg M
+13125164984 GARIMA AGARWAL B.Tech Computer Science & Engg M
+14125196785 MADHAV KUMAR B.Tech Computer Science & Engg M
+15125131273 ADITI SHAH B.Tech Computer Science & Engg M
+16125113494 DEVARSH PAUL B.Tech Computer Science & Engg M
+17125128937 VIGNESH K R B.Tech Computer Science & Engg M
+18125113466 ANIKA UTKARSH CHIKKANAGOUDAR B.Tech Computer Science & Engg M
+19125164095 SUMANYU VERMA B.Tech Computer Science & Engg M
+20125203753 SABARRI THENTRAL MURUGESAN B.Tech Computer Science & Engg M
+21125111470 AKSHITA HANS B.Tech Computer Science & Engg M
+22125171661 DEV ELHANCE B.Tech Computer Science & Engg M
+23125181983 DARSHAN PINKESH JAIN B.Tech Computer Science & Engg M
+24125247511 THANMAYI NAYAK K B.Tech Computer Science & Engg M
+25125197826 AEKAMJOT SINGH B.Tech Computer Science & Engg M
+26125122399 BUJUTI SIDDHARTHA REDDY B.Tech Computer Science & Engg M
+27125218615 ARDRA P B.Tech Computer Science & Engg M
+28125213952 PIYUSH SAHOO B.Tech Computer Science & Engg M
+29125115880 MAHATI VIVASVAN SHASTRI B.Tech Computer Science & Engg M
+30125172579  RAHUL.D B.Tech Computer Science & Engg M
+31125154083 KASHYAP BOTHRA B.Tech Computer Science & Engg M
+32125225897  MONIKA B.Tech Computer Science & Engg M
+33125161879 AYUSH YADAV B.Tech Computer Science & Engg M
+34125166741 DIVA S B.Tech Computer Science & Engg M
+35125167225 SAHARSH VARMA B.Tech Computer Science & Engg M
+36125118898 AARON SAMUEL JIBU B.Tech Computer Science & Engg M
+37125178286 ARITRA DAS B.Tech Computer Science & Engg M
+38125124883 SAMEERA SHARMA B.Tech Computer Science & Engg M
+39125115333 RISHABH VEDAM B.Tech Computer Science & Engg M
+40125164790 HARSHIT G NAGARKATTE B.Tech Computer Science & Engg M
+41125193047 SREE VAISHNAVI MOLUGURU B.Tech Computer Science & Engg M
+42125250130 JISHNU PRASAD SAMAL B.Tech Computer Science & Engg M
+43125133590 ARYAN SHARMA B.Tech Computer Science & Engg M
+44125118558 SYED DANIYAL AHMED B.Tech Computer Science & Engg M
+45125203833 TIRTH SHAH B.Tech Computer Science & Engg M
+46125156032 SAUBHAGYA JHUNJHUNWALA B.Tech Computer Science & Engg M
+47125159213 GURRAM ANISH B.Tech Computer Science & Engg M
+48125169393 NIHARIKA M B.Tech Computer Science & Engg M
+MIT Bengaluru B.Tech Section Allotment
+49125149836 AGASTYA SHARMA B.Tech Computer Science & Engg M
+50125193664 DHRUV SINGH B.Tech Computer Science & Engg M
+51125136346 GISELLE MEAGAN PAIS B.Tech Computer Science & Engg M
+52125191487 LAKSH JIGNESH THAKER B.Tech Computer Science & Engg M
+53125135524 B. BHAVESH REDDY B.Tech Computer Science & Engg M
+54125125498 AARON PAUL ABHILASH B.Tech Computer Science & Engg M
+55125190033 HRIDAY BHAVIN SHAH B.Tech Computer Science & Engg M
+56125241034 ARCHI GUPTA B.Tech Computer Science & Engg M
+57125191326 TANAYANJAN PARIDA B.Tech Computer Science & Engg M
+58125191936 GYANU KUMAR B.Tech Computer Science & Engg M
+59225119778 ARYAN ADITYA B.Tech Computer Science & Engg M
+60225120978 MIHIR SONAM B.Tech Computer Science & Engg M
+61225111605 SUNKIREDDY JASHITH PRANAV REDDY B.Tech Computer Science & Engg M
+62125206904 ADYASHA SAHANI B.Tech Computer Science & Engg M
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec N
+Sl NoApplication Number Candidate Name Course Name Section 
+1125132356 BHAVAN BASKER B.Tech Computer Science & Engg N
+2125115670 NANDANA T P B.Tech Computer Science & Engg N
+3125203358 RUDHRESH BABBAR B.Tech Computer Science & Engg N
+4125119111 BANDARY SANJANA B.Tech Computer Science & Engg N
+5125223491 RONAK PANDA B.Tech Computer Science & Engg N
+6125146382 POLA SAI SMYAN SASTRY B.Tech Computer Science & Engg N
+7125254763 SHAMBHAVI B.Tech Computer Science & Engg N
+8125140654 BHAVESH KUMAR MAHTO B.Tech Computer Science & Engg N
+9125167399 HARSHIT SAXENA B.Tech Computer Science & Engg N
+10125141592 YAGYASINI LASKAR B.Tech Computer Science & Engg N
+11125144167 MIHIR GUPTA B.Tech Computer Science & Engg N
+12125161145 PRATHIK T B.Tech Computer Science & Engg N
+13125130149 NIRALI VIPUL PALAN B.Tech Computer Science & Engg N
+14125181668 BIRUDARAJU ARYABHAT RAJU B.Tech Computer Science & Engg N
+15125122602 SOMIHA BAGCHI B.Tech Computer Science & Engg N
+16125167724 CHAKSHU PANDEY B.Tech Computer Science & Engg N
+17125113042 PARDHA SRIKAR DURVASULA B.Tech Computer Science & Engg N
+18125116720 AANYA GUPTA B.Tech Computer Science & Engg N
+19125137366 ISHAAN SINGH B.Tech Computer Science & Engg N
+20125244366 SAPTAK MITRA B.Tech Computer Science & Engg N
+21125158925 RIYA SHARMA B.Tech Computer Science & Engg N
+22125254960 MAYANK NARAYAN SINGH B.Tech Computer Science & Engg N
+23125167392 SHREESH PANDEY B.Tech Computer Science & Engg N
+24125157527 SPANDANA JOSHI B.Tech Computer Science & Engg N
+25125180308 ADWAIT VAIBHAV KIRVE B.Tech Computer Science & Engg N
+26125219888 YASH ARORA B.Tech Computer Science & Engg N
+27125209193 TANVI CHOUDHARY B.Tech Computer Science & Engg N
+28125147519 HRUDHAYNATH M G B.Tech Computer Science & Engg N
+29125143228 MANYA AGARWAL B.Tech Computer Science & Engg N
+30125156487 RAVULA ANVITH REDDY B.Tech Computer Science & Engg N
+31125177586 GARA SASHANK YADAV B.Tech Computer Science & Engg N
+32125113442 ADITI JHA B.Tech Computer Science & Engg N
+33125173234 ADITYA UMESH HARSORA B.Tech Computer Science & Engg N
+34125180126 ANUSHA JAIN B.Tech Computer Science & Engg N
+35125232272 PUNEET TIWARI B.Tech Computer Science & Engg N
+36125163978 RAJHANSA ISHAN ALANKAR B.Tech Computer Science & Engg N
+37125194162  SOUMIL B.Tech Computer Science & Engg N
+38125183252 ANUSHA PATHAK B.Tech Computer Science & Engg N
+39125113758 BIJOY PODDER B.Tech Computer Science & Engg N
+40125149800 ROHAN REDDY A B.Tech Computer Science & Engg N
+41125168108 SHAILY SHAMBHAVI B.Tech Computer Science & Engg N
+42125131526 KUSHAL AGARWAL B.Tech Computer Science & Engg N
+43125197015 TEJAS BHATT B.Tech Computer Science & Engg N
+44125216858 K KRISHNA SATVIK B.Tech Computer Science & Engg N
+45125219717 PURAAN BAGWAN B.Tech Computer Science & Engg N
+46125193704 REDDEM LEENA B.Tech Computer Science & Engg N
+47125149374 ANIRUDDH PARASHAR B.Tech Computer Science & Engg N
+48125177223 SAMRITHI SATISH B.Tech Computer Science & Engg N
+MIT Bengaluru B.Tech Section Allotment
+49125189569 ABHINAV JHA B.Tech Computer Science & Engg N
+50125169386 ANSH SHRIVASTAV B.Tech Computer Science & Engg N
+51125151054 ARJUN POKHRIYAL B.Tech Computer Science & Engg N
+52125112361 DHAANI GUPTA B.Tech Computer Science & Engg N
+53125128444 THOTA SAI B.Tech Computer Science & Engg N
+54125204131 UTKARSH NEGI B.Tech Computer Science & Engg N
+55125187298 AKHIL SRIRAM KAKILETI B.Tech Computer Science & Engg N
+56125136470 ISHITA PINAKI MUKHERJEE B.Tech Computer Science & Engg N
+57125191992 AGASTAYA PANDEY B.Tech Computer Science & Engg N
+58125175643 RASRAJ NAMDEV BODAKE B.Tech Computer Science & Engg N
+59225117143 MADDUKURI SRI KRISHNA MANOHAR B.Tech Computer Science & Engg N
+60225120853 KAUSHIKI GUPTA B.Tech Computer Science & Engg N
+61225116754 SAIRAJ DAREKAR B.Tech Computer Science & Engg N
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec O
+Sl NoApplication Number Candidate Name Course Name Section 
+1125124077 NAMAN AGARWAL B.Tech Computer Science & Engg O
+2125148320 SHAINA PARIHAR B.Tech Computer Science & Engg O
+3125163701 BOMMAVARAM MAHENDRA REDDY B.Tech Computer Science & Engg O
+4125129305 CHERUVU AMULYA B.Tech Computer Science & Engg O
+5125146009 BADDAM HASVIK REDDY B.Tech Computer Science & Engg O
+6125193267 ANSHOOL SANJAY BHISE B.Tech Computer Science & Engg O
+7125113942 PRIYA MARY EAPEN B.Tech Computer Science & Engg O
+8125138691 SUKRIT CHIKKA B.Tech Computer Science & Engg O
+9125114278 SREYAS BALAKRISHNAN K B.Tech Computer Science & Engg O
+10125185407 MEDHA MITTAL B.Tech Computer Science & Engg O
+11125162771  ABHINAV B.Tech Computer Science & Engg O
+12125211921  THASVIN B.Tech Computer Science & Engg O
+13125138428 SAMRIDHI VINAY SAIL B.Tech Computer Science & Engg O
+14125121585 SHAILESH RANJAN B.Tech Computer Science & Engg O
+15125133220 AAKANSHA GUPTA B.Tech Computer Science & Engg O
+16125153989 ANMOL KUMAR DABRAL B.Tech Computer Science & Engg O
+17125153848 PRIYANSH SUJAN B.Tech Computer Science & Engg O
+18125252290 DIPIKA GUPTA B.Tech Computer Science & Engg O
+19125122683 ROHIT RAJGURU B.Tech Computer Science & Engg O
+20125156584 PRAGNYAN REDDY B.Tech Computer Science & Engg O
+21125198907 SHIVAPURAM SAMANVITHA B.Tech Computer Science & Engg O
+22125166357 NIKHIL SAI RAJANALA B.Tech Computer Science & Engg O
+23125183240 V YATHIN RAJ B.Tech Computer Science & Engg O
+24125232157 ADITHI A ASHOK B.Tech Computer Science & Engg O
+25125139694 MANAV SHARMA B.Tech Computer Science & Engg O
+26125228021 VINAYAK SINGH B.Tech Computer Science & Engg O
+27125133232 GANGAVARAPU ANVITHA B.Tech Computer Science & Engg O
+28125240231 SAMARTH SALUJA B.Tech Computer Science & Engg O
+29125261160 AENA SIDDIQUI B.Tech Computer Science & Engg O
+30125193225 AGRIM SRIVASTAVA B.Tech Computer Science & Engg O
+31125147751 ANIRUDDH NARAYANA U B.Tech Computer Science & Engg O
+32125155995 GOBIKAA R B.Tech Computer Science & Engg O
+33125161406 BOLLEPALLI KARTHIKEYA B.Tech Computer Science & Engg O
+34125197786 PALLY SRI LASYA B.Tech Computer Science & Engg O
+35125115088 SANJAY V B.Tech Computer Science & Engg O
+36125188539 ATRIJ MALLICK B.Tech Computer Science & Engg O
+37125169378 NEEV KUMAR TAJPARA B.Tech Computer Science & Engg O
+38125204830 SRIJA SNEHA B.Tech Computer Science & Engg O
+39125125705 ANSH AGARWAL B.Tech Computer Science & Engg O
+40125219197 ABHISHEK TOLETI B.Tech Computer Science & Engg O
+41125155349 ADITYA KAMTALWAR B.Tech Computer Science & Engg O
+42125125950 ISHITA GARG B.Tech Computer Science & Engg O
+43125129275 DASARI SAI ABHIRAM B.Tech Computer Science & Engg O
+44125253558 SAI CHARAN B.Tech Computer Science & Engg O
+45125253677 SHOUMIL MANDAL B.Tech Computer Science & Engg O
+46125113693 SHREYA MOHAPATRA B.Tech Computer Science & Engg O
+47125209455 CHIRAG GOEL B.Tech Computer Science & Engg O
+48125193207 SONAKSHI RANGRA B.Tech Computer Science & Engg O
+MIT Bengaluru B.Tech Section Allotment
+49125242153 PRAKHAR YADAV B.Tech Computer Science & Engg O
+50125161043 JALAJ SRIVASTAVA B.Tech Computer Science & Engg O
+51125111480 SANNIHITH REDDY MADIREDDY B.Tech Computer Science & Engg O
+52125170876 ISHITA JAIN B.Tech Computer Science & Engg O
+53125140209 PREREET NASA B.Tech Computer Science & Engg O
+54125146904 ATHARVA UPADHYAY B.Tech Computer Science & Engg O
+55125226804 SANKALP SAMARTH B.Tech Computer Science & Engg O
+56125192997 SARANYA CHAVALI B.Tech Computer Science & Engg O
+57125172484 SURYA KRISHNA DIVYAKSHAR VAKATI B.Tech Computer Science & Engg O
+58125204190 PIYUSH POKHRIYAL B.Tech Computer Science & Engg O
+59225119681 ANUSHKA KOORA B.Tech Computer Science & Engg O
+60225121024 RAUMIJA MONDAL B.Tech Computer Science & Engg O
+61225112286 JAYDEN JONES B.Tech Computer Science & Engg O
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec P
+Sl NoApplication Number Candidate Name Course Name Section 
+1125153704 PATHANGE DIVYANSHU B.Tech Computer Science & Engg P
+2125119006 SAISREE VAISHNAVI B.Tech Computer Science & Engg P
+3125177649 SUBHRO KANTI KARAN B.Tech Computer Science & Engg P
+4125154619 RIDDHI PAVANKUMAR MALI B.Tech Computer Science & Engg P
+5125151791 SRIPAD PRASAD B.Tech Computer Science & Engg P
+6125162943 PRANAV VIGHNESH B.Tech Computer Science & Engg P
+7125160343 AASHI AGRAWAL B.Tech Computer Science & Engg P
+8125173323 ARNAV AGARWAL B.Tech Computer Science & Engg P
+9125165021 VISHIB DHIMAN B.Tech Computer Science & Engg P
+10125191098 K.HARSHITHA REDDY B.Tech Computer Science & Engg P
+11125240046 DHRUV CHATURVEDI B.Tech Computer Science & Engg P
+12125163257 UDBHAVAN BANERJEE B.Tech Computer Science & Engg P
+13125208914 AISHITA CHANDEL B.Tech Computer Science & Engg P
+14125239430 PRAJEET SINGH B.Tech Computer Science & Engg P
+15125134074 JAYANI SINGHAL B.Tech Computer Science & Engg P
+16125203481 MANAS SINGH B.Tech Computer Science & Engg P
+17125205547 YUVRAJ SRIVASTAVA B.Tech Computer Science & Engg P
+18125180098 BHAVYA SHUKLA B.Tech Computer Science & Engg P
+19125124242 GANESH CHENNAM B.Tech Computer Science & Engg P
+20125197863 TRISHIR YADAV B.Tech Computer Science & Engg P
+21125203429 FARHA P K B.Tech Computer Science & Engg P
+22125155798 PRIYANSH RAJPAL B.Tech Computer Science & Engg P
+23125171735  ASHWATH B.Tech Computer Science & Engg P
+24125118798 AARSHIYA TENDOLKAR B.Tech Computer Science & Engg P
+25125177581 SUJITHKUMAR R B.Tech Computer Science & Engg P
+26125184054 GAUTAM SESHAGIRI PULAKALA B.Tech Computer Science & Engg P
+27125176268 RAKSHITHA SRINIVASAN B.Tech Computer Science & Engg P
+28125259071 SHIKHAR SRIVASTAVA B.Tech Computer Science & Engg P
+29125129841 SIMRAN CHOPRA B.Tech Computer Science & Engg P
+30125188931 PRANAB BISARIA B.Tech Computer Science & Engg P
+31125245112 ARPIT OJHA B.Tech Computer Science & Engg P
+32125143870 KAKARAPARTHI LAKSHMI KAVYA B.Tech Computer Science & Engg P
+33125256874 ATUL PANDA B.Tech Computer Science & Engg P
+34125123792 KRUTHIKA G B.Tech Computer Science & Engg P
+35125257173 KONDAPALLY NIKHIL ABHIRAM REDDY B.Tech Computer Science & Engg P
+36125201750 KASARAM PAVAN TANAI B.Tech Computer Science & Engg P
+37125137358 PARUCHURI HARDHIK B.Tech Computer Science & Engg P
+38125115882 MISS PEHAR JAISWAL B.Tech Computer Science & Engg P
+39125188410 SIDDHARTH SHANKAR B.Tech Computer Science & Engg P
+40125183183 RAGHAV GUPTA B.Tech Computer Science & Engg P
+41125202406 GAURAV DEO LAGURI B.Tech Computer Science & Engg P
+42125144803 DANDA DIVYA TRISHNA B.Tech Computer Science & Engg P
+43125159766 RIKON KARMAKAR B.Tech Computer Science & Engg P
+44125186963 JANAK JOSHI B.Tech Computer Science & Engg P
+45125166011 KAUSTUBH SINGH B.Tech Computer Science & Engg P
+46125191515 PALAK RATHOD B.Tech Computer Science & Engg P
+47125116810 SWARAJ PANDA B.Tech Computer Science & Engg P
+48125175301 YARAMKOTA VENKATA RHEA B.Tech Computer Science & Engg P
+MIT Bengaluru B.Tech Section Allotment
+49125187129 KRISHNA GUNJAN B.Tech Computer Science & Engg P
+50125134730 ANIRUDHA PAVANJE B.Tech Computer Science & Engg P
+51125216900 PARV PARASCHAND KHAJANCHI B.Tech Computer Science & Engg P
+52125162878  KSHITIKA B.Tech Computer Science & Engg P
+53125174504 AYAN AHMAD B.Tech Computer Science & Engg P
+54125154842 KABIR NATH B.Tech Computer Science & Engg P
+55125121358 SREYANK AVINASH B.Tech Computer Science & Engg P
+56125204234 VEDIKA LALA B.Tech Computer Science & Engg P
+57125182673 DIVYANSH ANIL SONI B.Tech Computer Science & Engg P
+58225120226 AMOGH B G B.Tech Computer Science & Engg P
+59225119910 MOHAMED NIYAS B.Tech Computer Science & Engg P
+60225118008 DHYAAN PRABHU M B.Tech Computer Science & Engg P
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec Q
+Sl NoApplication Number Candidate Name Course Name Section 
+1125225714 VARUN RAJARAM B.Tech Computer Science & Engg Q
+2125195619 HARSHI TIWARI B.Tech Computer Science & Engg Q
+3125162388 KORUPROLU AADITYA DEEP B.Tech Computer Science & Engg Q
+4125199184 ANWESHA GUPTA B.Tech Computer Science & Engg Q
+5125250432 SHREYANSH P VARUR B.Tech Computer Science & Engg Q
+6125222427 SHREYANSH CHOUDHARY B.Tech Computer Science & Engg Q
+7125119809 APOORVA S M B.Tech Computer Science & Engg Q
+8125211724 ROSHAN JACOB B.Tech Computer Science & Engg Q
+9125161041 PAWAN PRASHANT KAMATH B.Tech Computer Science & Engg Q
+10125116073 DIYA V NAIR B.Tech Computer Science & Engg Q
+11125181346 VAIBHAV KUMAR YADAV B.Tech Computer Science & Engg Q
+12125229674 NABH NAVEEN SINGH B.Tech Computer Science & Engg Q
+13125123880 ADYA SINHA B.Tech Computer Science & Engg Q
+14125127654 TANMAY ANAND BELLAPUKONDA B.Tech Computer Science & Engg Q
+15125196488 PRISHA SRIVASTAVA B.Tech Computer Science & Engg Q
+16125247615 ARYA VASISHTA B.Tech Computer Science & Engg Q
+17125126369 SUJAL S SHETTY B.Tech Computer Science & Engg Q
+18125119723 AVANI BHAMBERE B.Tech Computer Science & Engg Q
+19125118722 NIMISH SAWHNEY B.Tech Computer Science & Engg Q
+20125138032 SAI NAVANEETH DURISETY B.Tech Computer Science & Engg Q
+21125117043 SREEHITHA MADINEEDI B.Tech Computer Science & Engg Q
+22125163541 AVANEESH BK B.Tech Computer Science & Engg Q
+23125135808 YENIGALLA VENKATA ROHAN B.Tech Computer Science & Engg Q
+24125119685 RITHIKA KAPPATAN B.Tech Computer Science & Engg Q
+25125198241 ARAV ARORA B.Tech Computer Science & Engg Q
+26125125436 PRIYADHARSHAN B B.Tech Computer Science & Engg Q
+27125138728 LEKYA P REDDY B.Tech Computer Science & Engg Q
+28125169255 RITHVIK PADAMATA B.Tech Computer Science & Engg Q
+29125111904 NISHITA PAGAKU B.Tech Computer Science & Engg Q
+30125152611 ARYAN KAMDAR B.Tech Computer Science & Engg Q
+31125217293 SHAYAN HAZIM B.Tech Computer Science & Engg Q
+32125117786 VEDHA KAPOOR B.Tech Computer Science & Engg Q
+33125163143 ADARI H HARSHIL PRALAV B.Tech Computer Science & Engg Q
+34125145707 MANASI TRIVEDI B.Tech Computer Science & Engg Q
+35125201346 DEV DUBEY B.Tech Computer Science & Engg Q
+36125163682 HARSH PUNGLIA B.Tech Computer Science & Engg Q
+37125133530 CHIRAG KOTHARI B.Tech Computer Science & Engg Q
+38125127205 AKSHITA RAJ B.Tech Computer Science & Engg Q
+39125133979 PRANJAY NINGANIA B.Tech Computer Science & Engg Q
+40125225122 ASHUTOSH NAYAK B.Tech Computer Science & Engg Q
+41125197709 SATWIK SINGH B.Tech Computer Science & Engg Q
+42125164831 DEEPIKA GUPTA B.Tech Computer Science & Engg Q
+43125146885 ANURAAG ADITHYAA B.Tech Computer Science & Engg Q
+44125123819 TANISH NAIR B.Tech Computer Science & Engg Q
+45125252754 KOTHAGUNDU SAI CHARAN B.Tech Computer Science & Engg Q
+46125120108 GADDAPU HAASINI REDDY B.Tech Computer Science & Engg Q
+47125181522 AKASH HARIKRISHNAN B.Tech Computer Science & Engg Q
+48125198834 ASHIKA MAJI B.Tech Computer Science & Engg Q
+MIT Bengaluru B.Tech Section Allotment
+49125122570 SANCHIT DOGRA B.Tech Computer Science & Engg Q
+50125145177 YUVRAJ SINGH B.Tech Computer Science & Engg Q
+51125118308 VIRAJ AGRAWAL B.Tech Computer Science & Engg Q
+52125247135 DEEKSHA MARATHE B.Tech Computer Science & Engg Q
+53125141435 SAIANSH KATHURIA B.Tech Computer Science & Engg Q
+54125135095 LANKA ANVESH B.Tech Computer Science & Engg Q
+55125119295 VEJANDLA KOUSHIK B.Tech Computer Science & Engg Q
+56125206431 ANKITA KUMARI B.Tech Computer Science & Engg Q
+57125247936 VISHESH SAHORE B.Tech Computer Science & Engg Q
+58225119826 REVANNA INCHARA B.Tech Computer Science & Engg Q
+59225112071 SAGNIK BHAUMIK B.Tech Computer Science & Engg Q
+60225111617 KESHAV RAMESH TATACHAR B.Tech Computer Science & Engg Q
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec R
+Sl NoApplication Number Candidate Name Course Name Section 
+1125165379 SAMARTHA DAYANANDA B.Tech Computer Science & Engg R
+2125168571 VANJAVAKA GAGANA HAMSIKA REDDY B.Tech Computer Science & Engg R
+3125190449 LAKSHYA AGARWAL B.Tech Computer Science & Engg R
+4125203485 NIKHITA VEJENDLA B.Tech Computer Science & Engg R
+5125196310 NIRAJ BAISHYA B.Tech Computer Science & Engg R
+6125163908 SAHEJ SINGH B.Tech Computer Science & Engg R
+7125250802 SHAMBHAVI KASHYAP B.Tech Computer Science & Engg R
+8125247797 DHRUV SREENIVAS B.Tech Computer Science & Engg R
+9125217931 KARTIKEYA MADALLAPALLI B.Tech Computer Science & Engg R
+10125123902 SUHANI SURI B.Tech Computer Science & Engg R
+11125168359 D M DHRUVA B.Tech Computer Science & Engg R
+12125152725 SAMRIK SAHA B.Tech Computer Science & Engg R
+13125233173 AARNA MAHAJAN B.Tech Computer Science & Engg R
+14125262162 JASH SHAH B.Tech Computer Science & Engg R
+15125168317 GAZAL GUPTA B.Tech Computer Science & Engg R
+16125177940 DIVYASH JAIN B.Tech Computer Science & Engg R
+17125152115 PARV KETANBHAI PATEL B.Tech Computer Science & Engg R
+18125226162 JASKARAN SINGH B.Tech Computer Science & Engg R
+19125222300 AASHIKAA BASOTIA B.Tech Computer Science & Engg R
+20125177756 KRIDAY GUPTA B.Tech Computer Science & Engg R
+21125133849 ADWITIYA PAL B.Tech Computer Science & Engg R
+22125176324 ABHINAV AGARWAL B.Tech Computer Science & Engg R
+23125123018 SAI UJWAL MEESALA B.Tech Computer Science & Engg R
+24125139169 KYRAH NARAYANAN B.Tech Computer Science & Engg R
+25125116507 ADVAIT SAJITH B.Tech Computer Science & Engg R
+26125190266 ADITYA CHOUDHARY B.Tech Computer Science & Engg R
+27125258466 BHUMIKA ROY B.Tech Computer Science & Engg R
+28125139635 VISHNU RAM.S B.Tech Computer Science & Engg R
+29125228382 LAVANYA DUA B.Tech Computer Science & Engg R
+30125260364 TVISHA RANA B.Tech Computer Science & Engg R
+31125125796 HAZEL VARSHNEY B.Tech Computer Science & Engg R
+32125177632 RITHIKA RAMESH B.Tech Computer Science & Engg R
+33125203834 NILAY LOCHAN B.Tech Computer Science & Engg R
+34125180668 AKSHITA SINGH B.Tech Computer Science & Engg R
+35125117722 SAADHAN SURESH B.Tech Computer Science & Engg R
+36125234215 CHIRAG PANDEY B.Tech Computer Science & Engg R
+37125247643 MANCHIKANTI V SAI SIVA B.Tech Computer Science & Engg R
+38125116633 KAVYA ROHIT ABHYANKAR B.Tech Computer Science & Engg R
+39125145033 SAI SHABRESHWAR.S B.Tech Computer Science & Engg R
+40125194977 VADDE YUVAN REDDY B.Tech Computer Science & Engg R
+41125237486 AARNOLD MARC B.Tech Computer Science & Engg R
+42125218396 J RHISHYA B.Tech Computer Science & Engg R
+43125150308 P PRANAV REDDY B.Tech Computer Science & Engg R
+44125147628 FAHAD JEFFREY B.Tech Computer Science & Engg R
+45125177058 GALI LIKITH REDDY B.Tech Computer Science & Engg R
+46125145978 BANDARU SAHITHI B.Tech Computer Science & Engg R
+47125228110 NIHAR CHINDAK B.Tech Computer Science & Engg R
+48125192680 BHAVAGNYA SISTA B.Tech Computer Science & Engg R
+MIT Bengaluru B.Tech Section Allotment
+49125149069  SARTHAK B.Tech Computer Science & Engg R
+50125200489 ARNAV KINI B.Tech Computer Science & Engg R
+51125192714 CHIMMULA SRI HARSHITH REDDY B.Tech Computer Science & Engg R
+52125147585 SREYA IYER B.Tech Computer Science & Engg R
+53125230375 SRIVATS BANSAL B.Tech Computer Science & Engg R
+54125177062 VARANASI GREESHMANTH REDDY B.Tech Computer Science & Engg R
+55125112651 AARUSH KULSHRESHTHA B.Tech Computer Science & Engg R
+56125177086 TARIKA HANDOO B.Tech Computer Science & Engg R
+57125155417 GADIPATI JAIDEEP CHOWDARY B.Tech Computer Science & Engg R
+58225119751 AFFAN ALI KHAN B.Tech Computer Science & Engg R
+59225118696 KALLURI TEJAS REDDY B.Tech Computer Science & Engg R
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec S
+Sl NoApplication Number Candidate Name Course Name Section 
+1125146630 MANNAN MEHIRCHANDANI B.Tech Computer Science & Engg S
+2125115220 OJASWINI DHAR B.Tech Computer Science & Engg S
+3125182403 DAQSHYA GHOSH B.Tech Computer Science & Engg S
+4125123908 AMBATI LAKSHMI HEMA B.Tech Computer Science & Engg S
+5125171578  YASHISH B.Tech Computer Science & Engg S
+6125210363 NAMAN MAHAWER B.Tech Computer Science & Engg S
+7125157858 AELUGANI RISHIIKA B.Tech Computer Science & Engg S
+8125165463 ADARSH RAVIKUMAR B.Tech Computer Science & Engg S
+9125189163 NELLURI SHISHIR SANDESH B.Tech Computer Science & Engg S
+10125116657 ANNIE CHRISTLYN BENISTON B.Tech Computer Science & Engg S
+11125117011 SAYAN SARKAR B.Tech Computer Science & Engg S
+12125114933  PRASHANTH B.Tech Computer Science & Engg S
+13125204705 BHAVINI PANT B.Tech Computer Science & Engg S
+14125153602 KAMISETTY SRIKAR B.Tech Computer Science & Engg S
+15125194467 NITHILE JAIPAL B.Tech Computer Science & Engg S
+16125131347 AMRIT SEHGAL B.Tech Computer Science & Engg S
+17125259074 ADLA SAHITH REDDY B.Tech Computer Science & Engg S
+18125142156 AMOGH ASHWIN AMIN B.Tech Computer Science & Engg S
+19125239837 PINNELLI LAKSHMI SATVIKA B.Tech Computer Science & Engg S
+20125131031 ADVAY PANDA B.Tech Computer Science & Engg S
+21125184234 TRISHA RELHAN B.Tech Computer Science & Engg S
+22125116964 MUDITH SAI VASA B.Tech Computer Science & Engg S
+23125249298 TEJAS SHAH B.Tech Computer Science & Engg S
+24125118098 ANINDITA NASKAR B.Tech Computer Science & Engg S
+25125133182 AYUSH ARORA B.Tech Computer Science & Engg S
+26125183078 SHREYANSH PATRA B.Tech Computer Science & Engg S
+27125255049 VANSHIKA BANSAL B.Tech Computer Science & Engg S
+28125140331 TANMAY VERMA B.Tech Computer Science & Engg S
+29125117858 VIJAY NARAYANAN M B.Tech Computer Science & Engg S
+30125204021 NOONE POOJITHA B.Tech Computer Science & Engg S
+31125134844 MANAN AGGARWAL B.Tech Computer Science & Engg S
+32125239756 ANVESHA SUKHWAL B.Tech Computer Science & Engg S
+33125139976 PREETHAM H S B.Tech Computer Science & Engg S
+34125195320  TEJAS B.Tech Computer Science & Engg S
+35125191294 THOTAPALLI AISHANI B.Tech Computer Science & Engg S
+36125116926 ANSHUMAN THAKUR B.Tech Computer Science & Engg S
+37125181172 ABHIJIT TIWARY B.Tech Computer Science & Engg S
+38125112105 ANANYA AGRAWAL B.Tech Computer Science & Engg S
+39125200319 DARSHIL JAIN B.Tech Computer Science & Engg S
+40125194643 ISHAN BHARATH B.Tech Computer Science & Engg S
+41125121316 K VENKATA KAMAKHYA RITHIK B.Tech Computer Science & Engg S
+42125118328 RUCHA MAHENDRAKAR B.Tech Computer Science & Engg S
+43125115275 VEDVYAS DINESH PRABHU B.Tech Computer Science & Engg S
+44125139330 PRANSHUL SHARMA B.Tech Computer Science & Engg S
+45125175238 JAYADEV MANOJ KAMATH B.Tech Computer Science & Engg S
+46125159506 LAKSHITA SINGH B.Tech Computer Science & Engg S
+47125181849 YATHARTH MISHRA B.Tech Computer Science & Engg S
+48125204153 ANANYA TIWARI B.Tech Computer Science & Engg S
+MIT Bengaluru B.Tech Section Allotment
+49125113114 RITURAJ CHANDROTH B.Tech Computer Science & Engg S
+50125233620 KOTHAPALLY SAI SATVIK B.Tech Computer Science & Engg S
+51125112426 PULAGAM SREE ABHISHEIK REDDY B.Tech Computer Science & Engg S
+52125165462 POLAGANGU CHANDANA B.Tech Computer Science & Engg S
+53125164701 AARAV GUPTA B.Tech Computer Science & Engg S
+54125203918 RANGAREDDIGARI LAKSHMI CHARAN TEJ B.Tech Computer Science & Engg S
+55125200730 SHAURYA PORWAL B.Tech Computer Science & Engg S
+56125205468 TANISHA MAHESH BELAGAVI B.Tech Computer Science & Engg S
+57125234209 MIHIR B.Tech Computer Science & Engg S
+58225112188 KSHITIJ KULSHRESHTH B.Tech Computer Science & Engg S
+59225114071 RINESH MADDI B.Tech Computer Science & Engg S
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec T
+Sl NoApplication Number Candidate Name Course Name Section 
+1125115297 RYAN C RONNIE B.Tech Computer Science & Engg T
+2125241122 MEHAK GAIROLA B.Tech Computer Science & Engg T
+3125197027 NIRVAN KUMAR POOLAKADE B.Tech Computer Science & Engg T
+4125121031 SAANVI SARA B.Tech Computer Science & Engg T
+5125122695 V N ADITYA B.Tech Computer Science & Engg T
+6125118985 ISHAAN G DINDWAR B.Tech Computer Science & Engg T
+7125180221 ANVITA P G B.Tech Computer Science & Engg T
+8125187423 GAURAV KUMAR DEWANGAN B.Tech Computer Science & Engg T
+9125262479 DIVYAM JAIN B.Tech Computer Science & Engg T
+10125169261 ADIGOPULA SUSAADHANA B.Tech Computer Science & Engg T
+11125250171 PIYUSH RANJAN SWAIN B.Tech Computer Science & Engg T
+12125200878 ASHUTOSH DORA B.Tech Computer Science & Engg T
+13125121764 TIA JHA B.Tech Computer Science & Engg T
+14125226349 NELLORE THISHYANTH B.Tech Computer Science & Engg T
+15125154420 KONA SAI SRUTHI B.Tech Computer Science & Engg T
+16125132825 AADI CHATURVEDI B.Tech Computer Science & Engg T
+17125124022 AKSHAY P V B.Tech Computer Science & Engg T
+18125244062 SAKSHAM AGARWAL B.Tech Computer Science & Engg T
+19125183395 MOKSHITHA REDDY SANE B.Tech Computer Science & Engg T
+20125160390 SAPTARSHI ACHARJEE B.Tech Computer Science & Engg T
+21125207555 SHYAM VIJAY B.Tech Computer Science & Engg T
+22125171491 DEEPTI B B.Tech Computer Science & Engg T
+23125160122 AMRITANSHU MOHAN B.Tech Computer Science & Engg T
+24125200476 GUNGUN SURANA B.Tech Computer Science & Engg T
+25125136740 JAMPALA SREE SAI DWARAKA B.Tech Computer Science & Engg T
+26125198538 CHUKKA SATHWIK B.Tech Computer Science & Engg T
+27125130572 SHAMBHAVI NANDAN B.Tech Computer Science & Engg T
+28125136174 HARSHIT SACHDEVA B.Tech Computer Science & Engg T
+29125232892 RITESH BHUI B.Tech Computer Science & Engg T
+30125237448 NEHA PRADEEP B.Tech Computer Science & Engg T
+31125215161 VAIBHAV DEEP SINGH B.Tech Computer Science & Engg T
+32125192527 SARANYA PATRA B.Tech Computer Science & Engg T
+33125112420 OJAS GUPTA B.Tech Computer Science & Engg T
+34125123623 SHAURYA AGARWAL B.Tech Computer Science & Engg T
+35125165685 DRISHTI AGRAHARI B.Tech Computer Science & Engg T
+36125195420 AARNAV TYAGI B.Tech Computer Science & Engg T
+37125205619 SAI PALURI B.Tech Computer Science & Engg T
+38125178739 ISHIKA DUMEER B.Tech Computer Science & Engg T
+39125166735 KRISHNA AGRAWAL B.Tech Computer Science & Engg T
+40125178167 ARYAMAAN UPADHYAY B.Tech Computer Science & Engg T
+41125246162 DHANANJAY DEVRAJ B.Tech Computer Science & Engg T
+42125112432 MANYA AGRAWAL B.Tech Computer Science & Engg T
+43125228072 DHEERAJ PRAMOD B.Tech Computer Science & Engg T
+44125112360 PRATHAM GARG B.Tech Computer Science & Engg T
+45125190728 PRANJAL TRIPATHI B.Tech Computer Science & Engg T
+46125170784 KRIPA GROVER B.Tech Computer Science & Engg T
+47125202544 GAGAN GIRISH AMMINABHAVI B.Tech Computer Science & Engg T
+48125223847 CHARVI ARORA B.Tech Computer Science & Engg T
+MIT Bengaluru B.Tech Section Allotment
+49125144781 YASHASVI SINGH RAWAT B.Tech Computer Science & Engg T
+50125120200 VIHAAN MAINI B.Tech Computer Science & Engg T
+51125117914 SARTHAK PATEL B.Tech Computer Science & Engg T
+52125221735 SHANVI BANSAL B.Tech Computer Science & Engg T
+53125222581 ABHINAV BANDARI B.Tech Computer Science & Engg T
+54125141470 AARUSH RANJIT KANBARKAR B.Tech Computer Science & Engg T
+55125166577 TANMAY GOYAL B.Tech Computer Science & Engg T
+56125145130 ARNAV GOEL B.Tech Computer Science & Engg T
+57125127477 VAISHNAVI S NAIR B.Tech Computer Science & Engg T
+58225113336 SHLOK RAJIV B.Tech Computer Science & Engg T
+59225116376 PRATEEK SAI PATIBANDLA B.Tech Computer Science & Engg T
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec U
+Sl NoApplication Number Candidate Name Course Name Section 
+1125261925 SACHIN SATISH B.Tech Computer Science & Engg U
+2125200096 DIVYANKA BHADAURIA B.Tech Computer Science & Engg U
+3125224876 SARVESH GOENKA B.Tech Computer Science & Engg U
+4125116494 VIDHI ALOK KUMBHAT B.Tech Computer Science & Engg U
+5125228210 NAMAN KUKREJA B.Tech Computer Science & Engg U
+6125181551 RUSHIL TANDON B.Tech Computer Science & Engg U
+7125149409 NIRAJANA GHOSHAL B.Tech Computer Science & Engg U
+8125165252 ANMOL RAJPUT B.Tech Computer Science & Engg U
+9125146783 M ASHWIN KUMAR B.Tech Computer Science & Engg U
+10125124996 AMRITA ANANTH KINI B.Tech Computer Science & Engg U
+11125168251 VANSH DOSHI B.Tech Computer Science & Engg U
+12125203681 ARYAN SACHIN PATIL B.Tech Computer Science & Engg U
+13125206847 GAURI AGARWAL B.Tech Computer Science & Engg U
+14125114080 NIKUNJ RATHI B.Tech Computer Science & Engg U
+15125220438 PRAGNA G B.Tech Computer Science & Engg U
+16125144891 DHRUV MANDAR KULKARNI B.Tech Computer Science & Engg U
+17125185873 DEVATHEJ K B.Tech Computer Science & Engg U
+18125189860 ARKIN SHARMA B.Tech Computer Science & Engg U
+19125189463 PALAK PATNAIK B.Tech Computer Science & Engg U
+20125127783 NADIPATI PREM SAI KUMAR B.Tech Computer Science & Engg U
+21125117965 PRERNA PRADEEP PANGI B.Tech Computer Science & Engg U
+22125219682 ATRI GHOSAL B.Tech Computer Science & Engg U
+23125198062 RISHAB JAIN B.Tech Computer Science & Engg U
+24125233044 SWATHI SINGALURI B.Tech Computer Science & Engg U
+25125124157 RISHABH MAHESH B.Tech Computer Science & Engg U
+26125164383 KANAV SAHU B.Tech Computer Science & Engg U
+27125131317 NIYATI. VIPUL. PALAN B.Tech Computer Science & Engg U
+28125219635 BATHENA VENU SHASANKH B.Tech Computer Science & Engg U
+29125156236 JAYANTH RACHAKONDA B.Tech Computer Science & Engg U
+30125171695 RIDDHI AGARWAL B.Tech Computer Science & Engg U
+31125124212 MAYANK KUMAR RAY B.Tech Computer Science & Engg U
+32125189379 MUKUND RANGA B.Tech Computer Science & Engg U
+33125154382 ISHAAN KASHYAP B.Tech Computer Science & Engg U
+34125119094 ROSHNI DEY B.Tech Computer Science & Engg U
+35125158587 BIBEK CHOUDHURY B.Tech Computer Science & Engg U
+36125202815 A JOSHUA B.Tech Computer Science & Engg U
+37125112921 MITRAVINDA VIVEK B.Tech Computer Science & Engg U
+38125133865 RAJ MAISURIYA B.Tech Computer Science & Engg U
+39125166100 AMAN VERMA B.Tech Computer Science & Engg U
+40125236640 REHAN M BALLOOR B.Tech Computer Science & Engg U
+41125191313 OJAL RANA B.Tech Computer Science & Engg U
+42125143041 SHIVESH SOOD B.Tech Computer Science & Engg U
+43125236570 MOHAMMED ABDUL FATTAH B.Tech Computer Science & Engg U
+44125120280 ARAV JAIN B.Tech Computer Science & Engg U
+45125166277 HAZEL KAKAR B.Tech Computer Science & Engg U
+46125113782 KARTIK KULKARNI B.Tech Computer Science & Engg U
+47125218030 DIVYANSHI GUPTA B.Tech Computer Science & Engg U
+48125115824 ARNAV MOHIT B.Tech Computer Science & Engg U
+MIT Bengaluru B.Tech Section Allotment
+49125145169 ARNESH JAISWAL B.Tech Computer Science & Engg U
+50125187348 DASHMESH SINGH MATHARU B.Tech Computer Science & Engg U
+51125220351 DISHITA MAJUMDAR B.Tech Computer Science & Engg U
+52125133948 ABHIMANYU SEN B.Tech Computer Science & Engg U
+53125132847 ARSHDEEP SINGH B.Tech Computer Science & Engg U
+54125254607 YUHANTH P B.Tech Computer Science & Engg U
+55125131116 AYUSH GUPTA B.Tech Computer Science & Engg U
+56125114828 ANANYA JAIN B.Tech Computer Science & Engg U
+57225112347 ESHA GUBBI YAJAMAN B.Tech Computer Science & Engg U
+58225120405 DHANUSH R B.Tech Computer Science & Engg U
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec V
+Sl NoApplication Number Candidate Name Course Name Section 
+1125117850 ANISH R NAYAK B.Tech Electronics & Communication Engg V
+2125124612 ANSH JAIN B.Tech Electronics & Communication Engg V
+3125116717 ANIKETH PRASAD C B.Tech Electronics & Communication Engg V
+4125222120 MAHEK PAREKH B.Tech Electronics & Communication Engg V
+5125180636 VUDANRAO HARIT B.Tech Robotics and Artificial Intelligence V
+6125120949 ADITYA MALLAYYA MATH B.Tech Electronics & Communication Engg V
+7125235207 BHARGAV RAM YARLAGADDA B.Tech Electronics & Communication Engg V
+8125202873 YASHMAN SWAIN B.Tech Electronics & Computer Engg V
+9125135318 ADVIKA SUBHASH B.Tech Electronics & Communication Engg V
+10125117288 SHIVEN AGGARWAL B.Tech Electronics & Communication Engg V
+11125209073 V SIRISHREE B.Tech Electronics & Computer Engg V
+12125133345 CHAITANYA HAREKAD KRISHNA B.Tech Electronics Engineering (VLSI Design and Technology) V
+13125120537 ADITYA SASHI B.Tech Electronics & Communication Engg V
+14125124188 AISHANYA MANOJ KUDUPOJE B.Tech Robotics and Artificial Intelligence V
+15125205667 UTKARSH SHARMA B.Tech Electronics & Communication Engg V
+16125170999 PRATYUSH . B.Tech Electronics & Computer Engg V
+17125123727  KIPRA B.Tech Electronics & Computer Engg V
+18125149447 ATIF M B.Tech Electronics & Communication Engg V
+19125174130 YASHU MAURYA B.Tech Electronics & Computer Engg V
+20125243869 HARDIK PRATAP SINGH B.Tech Electronics & Computer Engg V
+21125126788 RISHIT CHUGH B.Tech Robotics and Artificial Intelligence V
+22125114382 SONAL VINAY TANDASI B.Tech Robotics and Artificial Intelligence V
+23125134698 KARTIK SINGHAL B.Tech Electronics & Computer Engg V
+24125115162  SRINIDHI AKKANAPRAGADA B.Tech Electronics Engineering (VLSI Design and Technology) V
+25125144505 SHAURYA PRAKHAR NASHINE B.Tech Electronics & Computer Engg V
+26125157362 BIRJOT KAUR B.Tech Electronics & Computer Engg V
+27125202859 SATVIK SINGH B.Tech Electronics & Computer Engg V
+28125214282 ISHMEET WADHWA B.Tech Electronics & Computer Engg V
+29125141167 AARAV MALIK B.Tech Electronics & Computer Engg V
+30125228417 RISHITH REDDY YANNAM B.Tech Electronics Engineering (VLSI Design and Technology) V
+31125118357 NAKUL PILLAI B.Tech Electronics & Computer Engg V
+32125119917 ABHINEET BANERJEE B.Tech Robotics and Artificial Intelligence V
+33125156097 KRRISHIKA KUKREJA B.Tech Electronics & Computer Engg V
+34125111695 VANYA KHANNA B.Tech Robotics and Artificial Intelligence V
+35125128768 S GANESH B.Tech Electronics & Computer Engg V
+36125196538 VEDANT ABHISHEK AGRAWAL B.Tech Electronics & Computer Engg V
+37125133804 PRATHAM MAHARSHI B.Tech Robotics and Artificial Intelligence V
+38125148907  DURBA B.Tech Electronics & Computer Engg V
+39125156975 SIDDHARTH MOHANTY B.Tech Electronics & Computer Engg V
+40125237325 VEDANT PUROHIT B.Tech Electronics & Computer Engg V
+41125126398 ARYAN SINGH B.Tech Electronics Engineering (VLSI Design and Technology) V
+42125204903 HARSHIT BIYANI B.Tech Electronics & Computer Engg V
+43125113313 APARAJITA JOSHI B.Tech Electronics & Computer Engg V
+44125201638 DHARANI SANAPALA B.Tech Electronics Engineering (VLSI Design and Technology) V
+45125209816 ALFRED AUGUSTINE B.Tech Electronics Engineering (VLSI Design and Technology) V
+46125114269 AHANA ALEVOOR B.Tech Robotics and Artificial Intelligence V
+47125188966 SRIHARI NARASIMHAN B.Tech Robotics and Artificial Intelligence V
+48125152796 SANSKAR JAISWAL B.Tech Electronics Engineering (VLSI Design and Technology) V
+MIT Bengaluru B.Tech Section Allotment
+49125135601 ARPIT KALE B.Tech Electronics Engineering (VLSI Design and Technology) V
+50125180918 TANISH TRIPOORRAJ DHAVALE B.Tech Robotics and Artificial Intelligence V
+51125133776 SAMRIDDHI TRIPATHI B.Tech Electronics Engineering (VLSI Design and Technology) V
+52125177047 SRIVATSA REDDY RAPOLU B.Tech Electronics Engineering (VLSI Design and Technology) V
+53125177047 SRIVATSA REDDY RAPOLU B.Tech Electronics Engineering (VLSI Design and Technology) V
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec W
+Sl NoApplication Number Candidate Name Course Name Section 
+1125176478 SHRINIVAS BHANDARY KULAI B.Tech Electronics & Communication Engg W
+2125111933 SURYA KIRAN R B.Tech Electronics & Communication Engg W
+3125126867 KAILASH NARENDRAN B.Tech Electronics & Communication Engg W
+4125114196 ANWESHA DEB B.Tech Electronics & Communication Engg W
+5125240428 KORADA ABHISHEK B.Tech Robotics and Artificial Intelligence W
+6125191284 ADITYA TIWARI B.Tech Electronics & Communication Engg W
+7125141825 MABBU SUBBARAYAPPA YUVA KARTHIK B.Tech Electronics & Computer Engg W
+8125164803 ARYAN SACHDEV B.Tech Electronics & Communication Engg W
+9125203900 TANUSH DINESH BHAKADE B.Tech Electronics & Communication Engg W
+10125170192 K B KOMALA B.Tech Electronics & Computer Engg W
+11125160849 SANGAMITHIRAI SARAVANAN B.Tech Electronics & Communication Engg W
+12125189588 KSHITIJ PATIL B.Tech Electronics & Communication Engg W
+13125207083 CHIKKALA SRIVINAYAK B.Tech Electronics & Communication Engg W
+14125200753 NOVAID AKHTAR B.Tech Electronics & Computer Engg W
+15125244609 ASHMITHADEVI B.Tech Electronics & Computer Engg W
+16125210915 ANIKET CHAUDHURI B.Tech Electronics & Communication Engg W
+17125199010 SWATHI SRI M K B.Tech Robotics and Artificial Intelligence W
+18125183954 LAKSHYA MEHTA B.Tech Electronics & Computer Engg W
+19125213531 ALLEN NATHAN BANDIKALLA B.Tech Electronics Engineering (VLSI Design and Technology) W
+20125122871 ARYAN GUPTA B.Tech Electronics & Computer Engg W
+21125201206 VIHAN TERLI B.Tech Robotics and Artificial Intelligence W
+22125114442 KUSHI JATHANNA B.Tech Robotics and Artificial Intelligence W
+23125204510 PARICHERLA MITHULESH B.Tech Electronics & Computer Engg W
+24125140425 ADITYA DAS B.Tech Electronics & Computer Engg W
+25125195219 GOVIND KALANTRI B.Tech Electronics & Computer Engg W
+26125253306 ANANYA GUPTA B.Tech Electronics & Computer Engg W
+27125159320 EESHAAN SHUKLA B.Tech Electronics & Computer Engg W
+28125190727 ADYANT ANIL RUSTAGI B.Tech Electronics & Computer Engg W
+29125207578 UTSAV GUPTA B.Tech Electronics & Computer Engg W
+30125112635 JNANESH HEGDE B.Tech Robotics and Artificial Intelligence W
+31125218206 AAHANA SHAH B.Tech Electronics Engineering (VLSI Design and Technology) W
+32125122480 ABHINAVA BHAGI B.Tech Electronics & Computer Engg W
+33125175348 AAYATI VERMA B.Tech Electronics & Computer Engg W
+34125157947 MISHTHI GUPTA B.Tech Robotics and Artificial Intelligence W
+35125120354 M V S SRIKAR B.Tech Electronics Engineering (VLSI Design and Technology) W
+36125220358 HARSHIT LAKHOTIA B.Tech Electronics & Computer Engg W
+37125118448 PRANAV SANJAY KHANDELWAL B.Tech Electronics & Computer Engg W
+38125124370 TEJASWIN YERRA B.Tech Electronics & Computer Engg W
+39125205516 SHREYA AGGARWAL B.Tech Electronics & Computer Engg W
+40125135851 DHEERAJ SUDEEP B.Tech Robotics and Artificial Intelligence W
+41125219090 SHREYANSH SARAS B.Tech Electronics & Computer Engg W
+42125250222 ANUTTOMA SIL B.Tech Electronics & Computer Engg W
+43125130082 DUGGIREDDY SAIRAM REDDY B.Tech Electronics Engineering (VLSI Design and Technology) W
+44125170599 AKSHIT ROHILLA B.Tech Electronics Engineering (VLSI Design and Technology) W
+45125129413 ADITI CHUMBALKAR B.Tech Electronics Engineering (VLSI Design and Technology) W
+46125183950 SHANKARI D PUJARI B.Tech Electronics Engineering (VLSI Design and Technology) W
+47125190054 SOHANI KHATUA B.Tech Robotics and Artificial Intelligence W
+48125159770 ASHUTOSH CHOUDHURY B.Tech Robotics and Artificial Intelligence W
+MIT Bengaluru B.Tech Section Allotment
+49125182731 OM GOYAL B.Tech Electronics Engineering (VLSI Design and Technology) W
+50125255816 DIVYANSH MAGHNANI B.Tech Electronics Engineering (VLSI Design and Technology) W
+MIT Bengaluru B.Tech Section Allotment
+Section: Sec X
+Sl NoApplication Number Candidate Name Course Name Section 
+1125248512 VANKADARA SRIKRISHNA SRAVAN B.Tech Electronics & Communication Engg X
+2125159062 VEDANT SHANTANU SONAR B.Tech Electronics & Communication Engg X
+3125111601 ADARSH ANANT KULKARNI B.Tech Electronics & Communication Engg X
+4125115866 LEKHA TUMATI B.Tech Electronics & Communication Engg X
+5125164333 THIRUVENKATA SUBRAMANIAN A B.Tech Electronics & Communication Engg X
+6125258659 CHRIS NISHLIN JUDIT B.Tech Electronics & Computer Engg X
+7125156880 ADITYA KUMAR MALHOTRA B.Tech Robotics and Artificial Intelligence X
+8125164921 ASHMIT KUMAR SAHU B.Tech Electronics & Communication Engg X
+9125211732 SHRESHTH PAISAL B.Tech Electronics & Communication Engg X
+10125129957 SHRIYA R B.Tech Electronics & Computer Engg X
+11125205349 MEDHA SHARMA B.Tech Electronics & Communication Engg X
+12125170096 KEERTAN PATIL B.Tech Electronics & Communication Engg X
+13125179018 RAJ KATIYAR B.Tech Electronics & Communication Engg X
+14125118502 PALLAM SRIANSH B.Tech Electronics & Computer Engg X
+15125186998 ROHIT NARAYANAN B.Tech Electronics & Communication Engg X
+16125159521 PRANAV VENKATA NIMISHAKAVI B.Tech Electronics & Computer Engg X
+17125193973 KHUSHI PURWAR B.Tech Robotics and Artificial Intelligence X
+18125140768 VIDUSHI SINGH B.Tech Electronics & Computer Engg X
+19125119321 CHINTA RITHVIK B.Tech Electronics & Computer Engg X
+20125141059 PRANAV MAHESH IYER B.Tech Robotics and Artificial Intelligence X
+21125170909 AAYUSH SINGH B.Tech Electronics Engineering (VLSI Design and Technology) X
+22125227381 MAHITHA BATCHU B.Tech Robotics and Artificial Intelligence X
+23125194519 SHUBH BALDA B.Tech Electronics & Computer Engg X
+24125196665 RUDRA VARMA B.Tech Electronics & Computer Engg X
+25125173555  ADITI B.Tech Electronics & Computer Engg X
+26125145662 HITESWAR K K B.Tech Electronics & Computer Engg X
+27125251391 ANIRUDH DAS B.Tech Electronics & Computer Engg X
+28125185061 MRIDUL MAHESH NAMBIAR B.Tech Electronics & Computer Engg X
+29125170867 ABHEESTA UDUPA K B.Tech Electronics & Computer Engg X
+30125186542 KRRISH PARE B.Tech Robotics and Artificial Intelligence X
+31125188234 PALAKSHI SAJWAN B.Tech Electronics & Computer Engg X
+32125235403 SIDDHANT JAIN B.Tech Electronics & Computer Engg X
+33125221498 SARTHAK ABHAY WAGHMARE B.Tech Electronics Engineering (VLSI Design and Technology) X
+34125143445 ANAND TRIPATHY B.Tech Electronics & Computer Engg X
+35125128304 ANSHIKA SINGH B.Tech Electronics Engineering (VLSI Design and Technology) X
+36125191782 MARTIS NEYOMI ABYGAIL ALLWYN B.Tech Robotics and Artificial Intelligence X
+37125168269 AYYAGARI SREERAM SUPHAL REDDY B.Tech Electronics & Computer Engg X
+38125174521 PRANJAL MADHUKAR B.Tech Electronics & Computer Engg X
+39125187611 WAMIKA SWAIN B.Tech Electronics & Computer Engg X
+40125172336 GARREN RODRIGUES B.Tech Robotics and Artificial Intelligence X
+41125144973 KRITHAN T A B.Tech Electronics Engineering (VLSI Design and Technology) X
+42125197036 SURYA HARSHIT YADAVALLI B.Tech Electronics Engineering (VLSI Design and Technology) X
+43125177601 KRIPALI K P B.Tech Electronics Engineering (VLSI Design and Technology) X
+44125187746 PRATHMESH TIWARI B.Tech Robotics and Artificial Intelligence X
+45125123886 HINTANSHA ARORA B.Tech Robotics and Artificial Intelligence X
+46125262224 MARKANDE PRASIDDHA B.Tech Electronics Engineering (VLSI Design and Technology) X
+47125125749 NALAMATI ANISH B.Tech Electronics Engineering (VLSI Design and Technology) X
+48125133310 NAGA BRUHATH VUDDANTI B.Tech Electronics Engineering (VLSI Design and Technology) X
